@@ -18,7 +18,16 @@ layout: page
      stats["overall"]["ppVotesAi"]) }}
 </div>
 
-<svg id="forces" style="width: 900px;height: 900px;"></svg>
+<div style="display: flex;align-items: center;" id="forces-container">
+  <svg id="forces" style="width: 900px;height: 900px;"></svg>
+  <div style="width: 600px">
+    <p style="font-size: 36px;line-height: 1;" id="sessionTitle">Hi</p>
+    <ul id="sessionList">
+      <li>test 1</li>
+      <li>test 2</li>
+    </ul>
+  </div>
+</div>
 
 {%- css "local" -%}
   {%- include 'css/stats-macros.css' -%}

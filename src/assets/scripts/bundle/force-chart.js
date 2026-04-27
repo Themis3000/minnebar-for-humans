@@ -144,6 +144,7 @@ window.addEventListener("load", (e) => {
 
   function handleHover(e) {
     const url = e.target.getAttribute("data-url");
+    const sessionData = sessions.find((session) => session["url"] === url);
     d3.selectAll(".nodes > g > text")
       .attr("display", "none");
 
@@ -168,7 +169,9 @@ window.addEventListener("load", (e) => {
         if (directNeighbours.includes(d["url"]))
           return "gold";
         return "";
-      })
+      });
+
+    sessionTitle.innerText = sessionData["title"];
   }
 });
 
