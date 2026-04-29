@@ -9,6 +9,9 @@
     font-size: var(--size-step-1);
     background: var(--gradient-stripes);
     padding: 15px calc(25% + 15px) 15px 30px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
 }
 
 .schd-title {
