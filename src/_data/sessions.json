@@ -736,67 +736,6 @@
         ]
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/1902",
-        "title": "AI Video for Small Business: Tools, Uses, and Open Discussion ",
-        "description": "\n      AI Video for Small Business: Real Tools, Real Uses, No Hype\n\nSmall businesses keep hearing about AI, but many are still asking the same question: What would I actually do with it? In my work with the Southwest Minnesota Small Business Development Center, I meet business owners who are curious about AI tools but need practical examples—not buzzwords.\n\nIn this session, I’ll demonstrate several AI video tools that can help small businesses create marketing content, explain products and services, improve customer communication, and save time. You’ll see real use cases, simple workflows, and approachable ways to start experimenting—even without a marketing team or video experience.\n\nWe’ll also open the floor for discussion so attendees can share what they’re seeing, trying, or questioning around AI video and AI in business. The goal is to swap real-world ideas, uncover what’s actually useful\n\n      \n    ",
-        "tags": [
-            "Beginner",
-            "Startups",
-            "AI/ML",
-            "Other"
-        ],
-        "list": "ai",
-        "categories": [
-            "4",
-            "7",
-            "5"
-        ],
-        "participants": [
-            {
-                "name": "Tamil Kadir Rajavel",
-                "url": "/participants/1478"
-            },
-            {
-                "name": "Aneela Idnani",
-                "url": "/participants/2291"
-            },
-            {
-                "name": "Katie Kodes",
-                "url": "/participants/2382"
-            },
-            {
-                "name": "Robert Boedigheimer",
-                "url": "/participants/3712"
-            },
-            {
-                "name": "Suf Hayes",
-                "url": "/participants/6166"
-            },
-            {
-                "name": "Joe Lencioni",
-                "url": "/participants/6189"
-            },
-            {
-                "name": "Jamie Siseman",
-                "url": "/participants/6362"
-            },
-            {
-                "name": "Tina",
-                "url": "/participants/6463"
-            },
-            {
-                "name": "Trevor Ausen",
-                "url": "/participants/6873"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Kris Boedigheimer",
-                "speakerBio": "Kris is the Associate Director of the Southwest Small Business Development Center. Kris is excited to assist southwest Minnesota residents achieve their business goals. Kris has a strong technical background having worked as a software developer. She also has experience as a business analyst providing solutions to business problems. She has worked in the medical software and retail industries including numerous areas of business including: tax accounting; accounts payable; procurement; and document management.\nKris is also the Program Coordinator for Junior Achievement in the Lyon County area. She is a conference speaker, 3rd degree black belt in Taekwondo, and certified self-defense instructor. She enjoys spending her free time enjoying family, traveling, sewing, and reading.\n"
-            }
-        ]
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/1903",
         "title": "git commit -m \"I didn't write this\" ",
         "description": "\n      For the past year, AI tools have fundamentally changed how I write software. In this session, I'll live-build something from scratch using the AI-powered development workflow I use every day — no slides, no deck, just a terminal and 40 minutes on the clock.\n\nWhether you're a seasoned dev curious about AI-assisted workflows or a skeptic who wants to see it break, come watch and find out how far we can get.\n\n      \n    ",
@@ -4626,109 +4565,6 @@
         ]
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/1936",
-        "title": "AI Doesn't Care If You Can Code ",
-        "description": "\n      There's a story we keep telling about AI: it's a tech tool, for tech people, and if you're not technical, you're behind.\n\nThat story is wrong. And it's costing us talent.\n\nAI is a language interface. The quality of what you get out is directly tied to how well you communicate what you need - context, nuance, specificity, the messy details. That's not a coding skill. That's a people skill. It's the skill you build after 15 or 20 years of managing ambiguity, reading rooms, translating between teams, and explaining complicated things to people who don't want to hear them.\n\nThe people with the deepest reps in exactly that kind of communication? They're the ones most likely to be sitting AI out right now. Not because they can't learn it. Because nobody told them the thing they're already good at is the thing AI actually rewards.\n\nIn this session, we'll prove it live. I'll take two prompts - one written like a command, one written like a conversation - and we'll watch the difference in real time. Then you'll try it. No slides after the first five minutes. No lecture. Just evidence.\n\nYou'll walk out knowing:\n\n\nWhy AI rewards the person with the most context, not the most technical skill\nThe single reframe that changes how you (or your team) approach any AI tool\nWhat a good prompt actually looks like, and why it sounds more like a briefing than a line of code\n\n\nFair warning: some of you are going to realize you've been underestimating the least technical person on your team. That's the point.\n\nBring your phone. Bring your skepticism. I'll bring the receipts.\n\n      \n    ",
-        "tags": [
-            "Beginner",
-            "AI/ML",
-            "Community",
-            "Soft Skills",
-            "Careers"
-        ],
-        "list": "ai",
-        "categories": [
-            "7",
-            "9",
-            "10",
-            "11"
-        ],
-        "participants": [
-            {
-                "name": "Ben Damman",
-                "url": "/participants/35"
-            },
-            {
-                "name": "Sam Grumdahl",
-                "url": "/participants/406"
-            },
-            {
-                "name": "Dale Wyttenbach",
-                "url": "/participants/453"
-            },
-            {
-                "name": "Brian Maddy",
-                "url": "/participants/490"
-            },
-            {
-                "name": "Aneela Idnani",
-                "url": "/participants/2291"
-            },
-            {
-                "name": "Julie Beauvais",
-                "url": "/participants/2549"
-            },
-            {
-                "name": "Stephen Gornick",
-                "url": "/participants/2644"
-            },
-            {
-                "name": "Brian Repko",
-                "url": "/participants/2968"
-            },
-            {
-                "name": "Bruce Adelsman",
-                "url": "/participants/4808"
-            },
-            {
-                "name": "Todd Harper",
-                "url": "/participants/5345"
-            },
-            {
-                "name": "Nikki Riemersma",
-                "url": "/participants/5563"
-            },
-            {
-                "name": "Caroline Swift Holden",
-                "url": "/participants/6003"
-            },
-            {
-                "name": "Kaitlin Strand",
-                "url": "/participants/6330"
-            },
-            {
-                "name": "Kyle Nelson",
-                "url": "/participants/6515"
-            },
-            {
-                "name": "Deb Haas",
-                "url": "/participants/6809"
-            },
-            {
-                "name": "Nicole McKinnon",
-                "url": "/participants/6879"
-            },
-            {
-                "name": "Trixy Heller",
-                "url": "/participants/6880"
-            },
-            {
-                "name": "Aniruddha Ghosh",
-                "url": "/participants/6911"
-            },
-            {
-                "name": "Justin Kaster",
-                "url": "/participants/7034"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Deb Haas",
-                "speakerBio": "Deb Haas spent 24 years in HR transformation at Accenture before getting laid off in 2024 and deciding to build something better. She now teaches AI to people who are convinced they're not \"techy enough\" - and watches them consistently outperform the self-identified technical users. She's the founder of AI Confidential and Joy Prompt Club, a MindStudio L3 Certified AI Agent Developer, and believes the biggest barrier to AI adoption is psychological, not technical. She lives in Minnesota with her husband Rob, three cats who run the house, and an unreasonable number of opinions.\nLinks:\n\nThe Unexamined Mind\nThe Human Side of AI Adoption\nAI Confidential\nJoy Prompt Club\nLinkedIn\n\n"
-            }
-        ]
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/1937",
         "title": "Gopher Supercomputing: Past, Present, and Future ",
         "description": "\n      The University of Minnesota has been a longstanding leader in scientific computing. It was the first U.S. University to buy a supercomputer, from Minnesota- and Wisconsin-based Cray Research in 1981. In the years since, the Minnesota Supercomputing Institute has offered on-campus computing resources and technical expertise to thousands of researchers around the state, enabling scientific discoveries in disciplines including genetics, chemistry, astronomy, and economics.\n\nAs an engineer at MSI, I've seen firsthand the value of this resource to the research community, and the interesting legacy quirks that come with operating a decades-old computing center. \n\nIn this session, I'll share an overview of MSI's history, a virtual tour of its current datacenter in the basement of a 100-year-old library, and get into the tech we use today and some examples of the computational research people are doing. And we'll touch on how things may change in the years ahead, as AI seeps into academia and hyperscalers eat the world's hardware supply.\n\n      \n    ",
@@ -5645,252 +5481,6 @@
             {
                 "speakerName": "Cameron MacDonald",
                 "speakerBio": "Cameron is a front-end developer who works on design systems. He finds joy in bridging the gap between visual design and software engineering; artistic creativity and practical problem solving.\nHe is also a Certified Professional in Accessibility Core Competencies (CPACC) through the International Association of Accessibility Professionals (IAAP). He hopes to earn WAS and CPWA certifications in the future.\nWhen he's not ripping his hair out trying to fix bugs he definitely didn't create, you can find him doing one of his many hobbies that he can't seem to stop picking up. These include skiing, cycling, illustration, animation, 3D printing, smart home automation, playing guitar and piano, and more.\nYou can find all of his socials at cdmacdonald.com\nIf you're a reader, add him on The StoryGraph and recommend a book that he can put on his TBR and immediately forget about.\n"
-            }
-        ]
-    },
-    {
-        "url": "https://sessions.minnestar.org/sessions/1946",
-        "title": "✱✱ State of Minnestar: A Community Conversation on the Past, Present & What’s Possible! ✱✱ ",
-        "description": "\n      Minnestar has always been by the community, for the community — and that’s especially true as we look ahead to what’s next.\n\nAs we celebrate 20 years of Minnestar, we’ll take a moment to reflect on where we’ve been, share where things stand today, and open up the conversation about where we go from here.\n\nMost importantly, we’ll gather your ideas, hopes, and feedback to help shape what’s ahead.\n\nWhat do you want to see more of? What’s missing? What would make Minnestar — and spaces like Minnebar — even more welcoming, inclusive, and impactful?\n\nWhether it’s your first Minnebar or your twentieth, this is a chance to share ideas, ask questions, and help shape what comes next.\n\nCome be part of the conversation.\n\n      \n    ",
-        "tags": [
-            "All levels",
-            "Community"
-        ],
-        "list": "none",
-        "categories": [
-            "9"
-        ],
-        "participants": [
-            {
-                "name": "Luke Francl",
-                "url": "/participants/1"
-            },
-            {
-                "name": "Casey Helbling",
-                "url": "/participants/8"
-            },
-            {
-                "name": "Jamie Thingelstad",
-                "url": "/participants/10"
-            },
-            {
-                "name": "David Simmer",
-                "url": "/participants/105"
-            },
-            {
-                "name": "Justin Cardinal",
-                "url": "/participants/702"
-            },
-            {
-                "name": "Matt Decuir",
-                "url": "/participants/917"
-            },
-            {
-                "name": "Joe Quarion",
-                "url": "/participants/1060"
-            },
-            {
-                "name": "Eryn O'Neil",
-                "url": "/participants/1792"
-            },
-            {
-                "name": "Peter Clark",
-                "url": "/participants/2004"
-            },
-            {
-                "name": "Eve Poeschl",
-                "url": "/participants/2182"
-            },
-            {
-                "name": "Aneela Idnani",
-                "url": "/participants/2291"
-            },
-            {
-                "name": "Edward Bertsch",
-                "url": "/participants/2665"
-            },
-            {
-                "name": "Brian Repko",
-                "url": "/participants/2968"
-            },
-            {
-                "name": "Kelly Heikkila",
-                "url": "/participants/3288"
-            },
-            {
-                "name": "Jarvis Yang",
-                "url": "/participants/3409"
-            },
-            {
-                "name": "Kisha Delain",
-                "url": "/participants/3421"
-            },
-            {
-                "name": "Kendra Plant",
-                "url": "/participants/4495"
-            },
-            {
-                "name": "Matt H",
-                "url": "/participants/4743"
-            },
-            {
-                "name": "Niraikalai Vijay",
-                "url": "/participants/5306"
-            },
-            {
-                "name": "Misha Hawthorn",
-                "url": "/participants/5436"
-            },
-            {
-                "name": "John Benninghoff",
-                "url": "/participants/5523"
-            },
-            {
-                "name": "Vaish Sagar",
-                "url": "/participants/6147"
-            },
-            {
-                "name": "Jeff Eddy",
-                "url": "/participants/6164"
-            },
-            {
-                "name": "Mel Bernstein",
-                "url": "/participants/6261"
-            },
-            {
-                "name": "Daniel Nelson",
-                "url": "/participants/6319"
-            },
-            {
-                "name": "Jamie Siseman",
-                "url": "/participants/6362"
-            },
-            {
-                "name": "Ben Ihde",
-                "url": "/participants/6385"
-            },
-            {
-                "name": "Jamie Ryan",
-                "url": "/participants/6802"
-            },
-            {
-                "name": "Benjamin Schatz",
-                "url": "/participants/6818"
-            },
-            {
-                "name": "Josh Benner",
-                "url": "/participants/6888"
-            },
-            {
-                "name": "Dave Elliston",
-                "url": "/participants/6988"
-            },
-            {
-                "name": "Craig Vosper",
-                "url": "/participants/7027"
-            },
-            {
-                "name": "Peiyu Phua",
-                "url": "/participants/7036"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Minnestar",
-                "speakerBio": "Minnestar is a nonprofit community organization that connects Minnesota’s tech ecosystem through free, inclusive, and community-led events. We’re best known for Minnebar and Minnedemo — spaces where technologists, founders, creatives, and curious minds come together to share ideas, demo projects, and support one another.\nAt Minnestar, we believe the best tech community is one that’s accessible, welcoming, and powered by the people in it.\nLearn more about Minnestar\nMeg Steuer is the Executive Director of Minnestar, where she leads efforts to build, nurture, and engage Minnesota’s vibrant tech community. With a passion for fostering connections and championing innovation, Meg brings years of experience in community building, economic development, and scaling initiatives.\nSince moving to Minnesota in 2014, Meg has made a significant impact in the community through her work with organizations like GREATER MSP, Forge North, BETA, Southern Minnesota Initiative Foundation, and the Small Business Development Center.\nConnect on LinkedIn\n"
-            }
-        ]
-    },
-    {
-        "url": "https://sessions.minnestar.org/sessions/1947",
-        "title": "Owning your engineering career progression and some advice from Tom Hanks ",
-        "description": "\n      Career advancement in engineering is often opaque. Promotion criteria is frequently unclear, inconsistent, or interpreted differently even across teams at the same company(!), making it hard to know whether you’re operating at the level required to grow, and whether or not anyone is recognizing your growth.\n\nI will introduce a practical, repeatable framework for taking ownership of your career progression. Drawing from experience participating in and also designing career ladders across organizations ranging from startups to large enterprises, I’ll walk through how to turn vague expectations into an actionable growth plan and create alignment with your leadership.\n\nYou’ll learn how to:\n\n\nTranslate ambiguous promotion criteria into concrete actions\nBuild a career roadmap aligned with your organization’s expectations\nHave productive, low-friction conversations with your manager about advancement\nDocument your work and impact in ways that matter for promotion decisions\nShift from reactive career management to intentional proactive planning\n\n\nYou’ll leave with a system you can apply at any company to create clarity around growth and to advocate effectively for your own progression. While the examples focus on software engineering, the framework applies broadly to technical roles across the industry.\n\nAnd Tom Hanks has some great advice that I will share with you too!\n\n      \n    ",
-        "tags": [
-            "Intermediate",
-            "Development",
-            "Soft Skills",
-            "Careers"
-        ],
-        "list": "none",
-        "categories": [
-            "2",
-            "10",
-            "11"
-        ],
-        "participants": [
-            {
-                "name": "David Simmer",
-                "url": "/participants/105"
-            },
-            {
-                "name": "Sam Grumdahl",
-                "url": "/participants/406"
-            },
-            {
-                "name": "Brian Maddy",
-                "url": "/participants/490"
-            },
-            {
-                "name": "Sara Heitkamp",
-                "url": "/participants/1282"
-            },
-            {
-                "name": "Grant Chandler",
-                "url": "/participants/2050"
-            },
-            {
-                "name": "Michelle Smeby",
-                "url": "/participants/2948"
-            },
-            {
-                "name": "Shalanah Dawson",
-                "url": "/participants/2973"
-            },
-            {
-                "name": "John Wilson",
-                "url": "/participants/3299"
-            },
-            {
-                "name": "Kendra Plant",
-                "url": "/participants/4495"
-            },
-            {
-                "name": "Trevor Wagner",
-                "url": "/participants/6004"
-            },
-            {
-                "name": "Cameron MacDonald",
-                "url": "/participants/6026"
-            },
-            {
-                "name": "Vaish Sagar",
-                "url": "/participants/6147"
-            },
-            {
-                "name": "Daniel Nelson",
-                "url": "/participants/6319"
-            },
-            {
-                "name": "James  Ellingson",
-                "url": "/participants/6383"
-            },
-            {
-                "name": "Trevor Ausen",
-                "url": "/participants/6873"
-            },
-            {
-                "name": "Ben Goffman",
-                "url": "/participants/6987"
-            },
-            {
-                "name": "Justin Joplin",
-                "url": "/participants/7082"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Tor Flatebo",
-                "speakerBio": "Tor Flatebo is an Engineering Manager at Meta with 25+ years in software engineering and technical leadership. He has built teams and platforms at companies like Meta, Best Buy, Medtronic, SPS Commerce, GovDelivery, and MPR. He focuses on developer experience, scalable internal tooling, and empowering engineers to do their best work. A community-oriented technologist based in Saint Paul, Minnesota, he enjoys practical engineering, collaboration, and building for fun.\n"
             }
         ]
     },
@@ -7460,57 +7050,6 @@
             {
                 "speakerName": "Phil Ensminger",
                 "speakerBio": "All work is lists, time, people, and tools. It gives me life to help individuals and businesses navigate the infinite matrix of these things with clarity and confidence.  \nFound online at thickmarker.com and philensminger.com.\n"
-            }
-        ]
-    },
-    {
-        "url": "https://sessions.minnestar.org/sessions/1963",
-        "title": "AI - Technology Cannibalism: Who Ate Who and What's Working Now ",
-        "description": "\n      Since last year a lot has happened in the world of AI.\n\nHundreds of new SaaS tools have become available and thousands of apps. \n\nSome have disappeared completely - or have they...\n\nFind out what AI tools have been eaten in the past year, and by who!\n\nAlso learn about what's working and what's not with AI tools that have the power to change the way we work.\n\nThis session will have a combination of information and demonstrations in a choose your own adventure format.\n\n\nWho Ate Who, and Who's Next...\nDemos: AI Wars! Pitting similar AI tools against each other to see who can and who can't do that\n\nSome fun things you can try at home\n\n\nNote: This session is geared towards using AI mainly for work tasks in various roles and industries, for the (potentially non-technical) end user\n\n      \n    ",
-        "tags": [
-            "All levels",
-            "Emerging Tech",
-            "AI/ML"
-        ],
-        "list": "ai",
-        "categories": [
-            "6",
-            "7"
-        ],
-        "participants": [
-            {
-                "name": "Michael Lorentz",
-                "url": "/participants/1063"
-            },
-            {
-                "name": "Cherie Lemer",
-                "url": "/participants/4394"
-            },
-            {
-                "name": "Lloyd Cledwyn Lentz",
-                "url": "/participants/4944"
-            },
-            {
-                "name": "Todd Harper",
-                "url": "/participants/5345"
-            },
-            {
-                "name": "Jamie Siseman",
-                "url": "/participants/6362"
-            },
-            {
-                "name": "Deb Haas",
-                "url": "/participants/6809"
-            },
-            {
-                "name": "Aniruddha Ghosh",
-                "url": "/participants/6911"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Sara Williams",
-                "speakerBio": "Sara Williams\nSara Williams is an experienced technology leader with over 18 years in web development and IT management. She holds two certificates from Harvard in Front-End Web Development and Business Strategy and Execution. Currently serving as Enterprise Technology Systems Manager at Nexstar Network, Inc., Sara leads AI and ERP initiatives for scalability and growth. With a passion for bridging the AI skills gap, Sara actively educates others on how AI tools can enhance their daily work and recently published a book, Super Employee - A Manual For Encouragement, about this topic.\nLinks:\n\nBook\nWebsite\nYouTube\nInstagram\n\n"
             }
         ]
     },
@@ -10603,71 +10142,6 @@
         ]
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/2032",
-        "title": "Malicious Compliance: Fighting Bad AI Vibes with Security Practice ",
-        "description": "\n      AI, is either revered or detested in the tech space. It’s also not going anywhere, try as we might. So, how can we ensure that tech doesn’t become SaaSlop that's hacked to peices? How can people who ethically aren’t aligned with AI use navigate keeping their ethics as well as their paycheck when AI-OKRs come ‘round? And how is the security industry handling all this? \n\nAll these questions and more I hope to give thoughts, insights, and tips on. That way when the time comes, you have all the personal and technical tools to ensure that AI-tech doesn’t end in bad vibes. \n\n      \n    ",
-        "tags": [
-            "All levels",
-            "AI/ML"
-        ],
-        "categories": [
-            "7"
-        ],
-        "list": "ai",
-        "participants": [
-            {
-                "name": "Jay Taylor",
-                "url": "/participants/563"
-            },
-            {
-                "name": "Joe Quarion",
-                "url": "/participants/1060"
-            },
-            {
-                "name": "Grant Chandler",
-                "url": "/participants/2050"
-            },
-            {
-                "name": "Jam Leomi",
-                "url": "/participants/3088"
-            },
-            {
-                "name": "Kisha Delain",
-                "url": "/participants/3421"
-            },
-            {
-                "name": "Kendra Plant",
-                "url": "/participants/4495"
-            },
-            {
-                "name": "Micah Jacobson",
-                "url": "/participants/5466"
-            },
-            {
-                "name": "Alexis Logsdon",
-                "url": "/participants/6130"
-            },
-            {
-                "name": "Zoe Copoulos",
-                "url": "/participants/6254"
-            },
-            {
-                "name": "Aniruddha Ghosh",
-                "url": "/participants/6911"
-            },
-            {
-                "name": "Heather McCarl",
-                "url": "/participants/7011"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Jam Leomi",
-                "speakerBio": "Jam Leomi (pronounced Lee-oh-me) (pronouns: they/them) has worked in the tech industry for over 20 years and is currently on the hunt for their next role! Their career in engineering has lent their keen eye towards security, systems engineering, and product security at companies like Google, GitHub, and Honeycomb.io. In their spare time they make music, delicious food, and pens!! \n"
-            }
-        ]
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/2033",
         "title": "Future of Work in the Age of AI: Interior Design as a Case Study ",
         "description": "\n      Two years ago, I wrote about the future of Interior Designers in the world of AI. \n\nNow that AI can design a room in seconds… did it actually happen?\n\nOr are we (me) missing something about how we actually buy? Let's talk about it + the future of work and commerce for all of us.\n\nhttps://katekuehl.medium.com/is-the-interior-designer-doomed-by-3d-generative-ai-aece2a92cc0d\n\nJoining us will be Steve Bonoff, of IQ Design. He will talk about how interior designers are operating today and what it means for the future of the industry.\n\nSession will include a talk and group discussion addressing/challenging: \n • AI can design anything, so why don’t we just buy it? \n • Why infinite options make decisions harder, not easier \n • Coordination and the meaning of labor\n • Why “Just Generate It Yourself” Doesn’t Work\n\n      \n    ",
@@ -12087,103 +11561,6 @@
         ]
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/2050",
-        "title": "I Built AI Agents for My Actual Life. Let's See If They Work. ",
-        "description": "\n      You've seen the posts. Someone has automated their entire business, their morning routine, their inbox, their life. Agents everywhere. Frictionless. Revolutionary.\n\nI'm not selling that.\n\nI spend a lot of time thinking about why analytics and AI investments fail or succeed at moving outcomes — in organizations, on teams, at the executive level. The diagnosis is almost never the technology. It's the distance between the signal and the actions driving outcomes - and the people in charge of each.\n\nSo I got curious whether the same problem exists at the personal level. And I started building.\n\nOver the last several months I've been putting together a small set of AI agents around my actual decisions — a job search, a home energy project, some civic work, the occasional cocktail. The question I'm testing: does encoding your decision making framework (values, priorities, risks) into a system actually produce better decisions? Or does it just produce more confident-sounding noise?\n\nThis session is the experiment, run live with your inputs.\n\nYou throw me a real decision. I run it through the agents. We watch what happens — where it's genuinely useful, where it confidently gets it wrong, where the human judgment layer still does all the real work.\n\nThen we talk about what that means. For how you work. For how your team works. For what \"decision architecture\" actually looks like when it's one person with a laptop or thousands of people in an enterprise with a data platform.\n\nNo conclusions yet. That's kind of the point.\n\nCome ready to participate. Bring a real decision if you have one.\n\n      \n    ",
-        "tags": [
-            "All levels",
-            "AI/ML",
-            "Product",
-            "Soft Skills"
-        ],
-        "categories": [
-            "7",
-            "8",
-            "10"
-        ],
-        "list": "ai",
-        "participants": [
-            {
-                "name": "Ian Bicking",
-                "url": "/participants/366"
-            },
-            {
-                "name": "Edward Bertsch",
-                "url": "/participants/2665"
-            },
-            {
-                "name": "Daniel Barnes",
-                "url": "/participants/2837"
-            },
-            {
-                "name": "DeLonn Crosby",
-                "url": "/participants/3109"
-            },
-            {
-                "name": "Nathan Miller",
-                "url": "/participants/4789"
-            },
-            {
-                "name": "Bruce Adelsman",
-                "url": "/participants/4808"
-            },
-            {
-                "name": "Frank Schilder",
-                "url": "/participants/4965"
-            },
-            {
-                "name": "Albert Hepp",
-                "url": "/participants/5526"
-            },
-            {
-                "name": "Kathy Comfort",
-                "url": "/participants/5556"
-            },
-            {
-                "name": "Suf Hayes",
-                "url": "/participants/6166"
-            },
-            {
-                "name": "Joe Lencioni",
-                "url": "/participants/6189"
-            },
-            {
-                "name": "Gilberto Ojeda",
-                "url": "/participants/6424"
-            },
-            {
-                "name": "Tina",
-                "url": "/participants/6463"
-            },
-            {
-                "name": "Aniruddha Ghosh",
-                "url": "/participants/6911"
-            },
-            {
-                "name": "Ben Goffman",
-                "url": "/participants/6987"
-            },
-            {
-                "name": "Glenn",
-                "url": "/participants/7005"
-            },
-            {
-                "name": "Heather McCarl",
-                "url": "/participants/7011"
-            },
-            {
-                "name": "Steven Bertsch",
-                "url": "/participants/7021"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Nathan Miller",
-                "speakerBio": "This person hasn't yet added a bio.\n"
-            }
-        ]
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/2051",
         "title": "How we bootstrapped our podcast studio in six months to profitiablity.   ",
         "description": "\n      We started as an art collective with six artists. We ended up with three and an idea to turn our art studio into a podcast studio. We signed our studio lease in September and had our first paying client in the studio in November. As of April, we're posting a profit less than six months later. I'll detail the journey and how we managed to scrape the money together to get it off the ground to how we're doing now. \n\n      \n    ",
@@ -12992,85 +12369,6 @@
             {
                 "speakerName": "Stephen Fluin",
                 "speakerBio": "Stephen Fluin is an enthusiastic Minnesota-based Executive Technologist, Entrepreneur, and Wearables Expert. Acting as an advisor and consultant to hundreds of startup, mid-sized, and Fortune 500 companies, he combines a deep understanding of modern technology and business practices to build great software products, strategies, and experiences.\nStephen applies deep technical knowledge and lean methodologies to accelerate software development. He is a recognized Google Developer Expert in Angular. As an avid fan of wearables and the Internet of Things, he frequently collaborates with businesses and developers in the community.\n"
-            }
-        ]
-    },
-    {
-        "url": "https://sessions.minnestar.org/sessions/2063",
-        "title": "Dirt, Data, and Distance: Lessons from Building Ag Tech in the Midwest ",
-        "description": "\n      Precision agriculture combines on-field sensors, satellite imagery, and climate data to help growers understand and respond to changes in their crops and environments before problems show themselves. In the Midwest, a region defined by its agricultural roots, the technology to modernize these operations exist, but adoption has been slow. \n\nIn this talk, I'll share what I've learned building technology for both indoor and outdoor agriculture: what's working, what isn't, and where the real opportunities lie. From on-field connectivity solutions to emerging tools that are finally starting to close the gap between growers and the technology built to serve them.\n\nAbout me: My name is Aditya and I've been out in the field, in greenhouses, and in nurseries throughout the last 4 years. With my background in computer engineering, my North Star is to simply make technology useful for those who bring so much value to us in the form of food, from the farm to the fork. I own a startup for pest management that eliminates Japanese Beetles, and run another project with the aim to use on-field sensor units to capture valuable data that farmers need. \n\n      \n    ",
-        "tags": [
-            "Intermediate",
-            "Startups",
-            "Emerging Tech"
-        ],
-        "categories": [
-            "4",
-            "6"
-        ],
-        "participants": [
-            {
-                "name": "Jay Taylor",
-                "url": "/participants/563"
-            },
-            {
-                "name": "Grant Chandler",
-                "url": "/participants/2050"
-            },
-            {
-                "name": "Katie Kodes",
-                "url": "/participants/2382"
-            },
-            {
-                "name": "Kisha Delain",
-                "url": "/participants/3421"
-            },
-            {
-                "name": "Matt Meshulam",
-                "url": "/participants/4672"
-            },
-            {
-                "name": "Bruce Adelsman",
-                "url": "/participants/4808"
-            },
-            {
-                "name": "Grant Udstrand",
-                "url": "/participants/6007"
-            },
-            {
-                "name": "Jeff Eddy",
-                "url": "/participants/6164"
-            },
-            {
-                "name": "Alex Frescoln",
-                "url": "/participants/6313"
-            },
-            {
-                "name": "Andrew Fraser",
-                "url": "/participants/6367"
-            },
-            {
-                "name": "Jamie Ryan",
-                "url": "/participants/6802"
-            },
-            {
-                "name": "Todd Taylor",
-                "url": "/participants/6821"
-            },
-            {
-                "name": "Aditya Prabhu",
-                "url": "/participants/6982"
-            },
-            {
-                "name": "Justin Joplin",
-                "url": "/participants/7082"
-            }
-        ],
-        "list": "none",
-        "speakers": [
-            {
-                "speakerName": "Aditya Prabhu",
-                "speakerBio": "I graduated with a Computer Engineering degree from the University of Minnesota Honors Program. \nOn the cloud side, I've often used GCP (Google Cloud Platform), Vertex AI, Agent Development Kit (ADK), and Cloud Run to deploy apps.\nCanopy Systems: I've built automations for horticulture, including smart irrigation, photoperiod, reasoning, and alerts. I use LangChain, Flask, and several great peripherals on the Raspberry Pi. See canopygrid.com, or www.linkedin.com/company/canopy-systems\nAlure LLC: a new preventive method to tackle invasive Japanese Beetles during the summer. Learn more at alurellc.com, or https://www.linkedin.com/company/alure-llc\nLinks:\n\nPersonal site\nLinkedIn\nGithub\nSmart Gadgets and Gallery\n\n"
             }
         ]
     },
@@ -14048,39 +13346,6 @@
             }
         ],
         "list": "ai"
-    },
-    {
-        "url": "https://sessions.minnestar.org/sessions/2082",
-        "title": "A Machine Learning Framework for Electrostatic Discharge Accident Prevention ",
-        "description": "\n      This work presents a semester long project focused on the prevention of Electrostatic Discharge (ESD) accidents through data driven modeling techniques. The primary objective of the project was to analyze key environmental and operational factors contributing to ESD incidents and develop predictive models to better understand and mitigate associated risks.\n\nThe dataset used in this study included variables such as humidity levels, equipment usage, grounding conditions, and human handling practices. A Random Forest model was implemented to classify and predict the likelihood of ESD related incidents under varying conditions. This approach enabled us to identify the most influential features contributing to accident risk and provided insights into how different factors interact within ESD sensitive environments.\n\nSignificant emphasis was placed on data preprocessing, including data cleaning, feature selection, and preparation to ensure model accuracy and reliability. Based on the results, several preventive recommendations were proposed, such as maintaining optimal environmental conditions, improving grounding protocols, and reinforcing safe handling practices.\n\nOverall, this project demonstrates the effectiveness of machine learning based data modeling in enhancing safety measures and proactively preventing ESD accidents. The findings highlight the potential for integrating predictive analytics into real-world industrial safety systems to improve reliability and reduce risk.\n\n      \n    ",
-        "tags": [
-            "Intermediate",
-            "AI/ML"
-        ],
-        "categories": [
-            "7"
-        ],
-        "participants": [
-            {
-                "name": "Katie Kodes",
-                "url": "/participants/2382"
-            },
-            {
-                "name": "Kisha Delain",
-                "url": "/participants/3421"
-            },
-            {
-                "name": "Misha Hawthorn",
-                "url": "/participants/5436"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Aayushma Bastakoti",
-                "speakerBio": "Hi, I am a junior Computer Science student at Minnesota State University, Mankato. I am currently working on an industry sponsored project as part of an upper division CS program with other three members, focused on Electrostatic Discharge (ESD) accident prediction.\nI also work as a Data Analyst Intern at Taylor Corporation and am interested in contributing to data driven projects that solve real world problems. As part of my academic experience, I have collaborated on a team based, industry sponsored project where we applied data modeling techniques to address real world safety challenges related to ESD.\n"
-            }
-        ],
-        "list": "none"
     },
     {
         "url": "https://sessions.minnestar.org/sessions/2083",
@@ -16996,27 +16261,6 @@
         "list": "none"
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/2129",
-        "title": "AI Networking ",
-        "description": "\n      Want to chat about AI outside of a session, this is your chance!\n\n      \n    ",
-        "tags": [
-            "All levels"
-        ],
-        "categories": [],
-        "participants": [],
-        "speakers": [
-            {
-                "speakerName": "Minnestar",
-                "speakerBio": "Minnestar is a nonprofit community organization that connects Minnesota’s tech ecosystem through free, inclusive, and community-led events. We’re best known for Minnebar and Minnedemo — spaces where technologists, founders, creatives, and curious minds come together to share ideas, demo projects, and support one another.\nAt Minnestar, we believe the best tech community is one that’s accessible, welcoming, and powered by the people in it.\nLearn more about Minnestar\nMeg Steuer is the Executive Director of Minnestar, where she leads efforts to build, nurture, and engage Minnesota’s vibrant tech community. With a passion for fostering connections and championing innovation, Meg brings years of experience in community building, economic development, and scaling initiatives.\nSince moving to Minnesota in 2014, Meg has made a significant impact in the community through her work with organizations like GREATER MSP, Forge North, BETA, Southern Minnesota Initiative Foundation, and the Small Business Development Center.\nConnect on LinkedIn\n"
-            },
-            {
-                "speakerName": "Minnestar",
-                "speakerBio": "Minnestar is a nonprofit community organization that connects Minnesota’s tech ecosystem through free, inclusive, and community-led events. We’re best known for Minnebar and Minnedemo — spaces where technologists, founders, creatives, and curious minds come together to share ideas, demo projects, and support one another.\nAt Minnestar, we believe the best tech community is one that’s accessible, welcoming, and powered by the people in it.\nLearn more about Minnestar\nMeg Steuer is the Executive Director of Minnestar, where she leads efforts to build, nurture, and engage Minnesota’s vibrant tech community. With a passion for fostering connections and championing innovation, Meg brings years of experience in community building, economic development, and scaling initiatives.\nSince moving to Minnesota in 2014, Meg has made a significant impact in the community through her work with organizations like GREATER MSP, Forge North, BETA, Southern Minnesota Initiative Foundation, and the Small Business Development Center.\nConnect on LinkedIn\n"
-            }
-        ],
-        "list": "ai"
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/2130",
         "title": "Speed Networking ",
         "description": "\n      Join to us network for networking sake!\n\n      \n    ",
@@ -17036,6 +16280,111 @@
             {
                 "speakerName": "Hillary Drake",
                 "speakerBio": "Hillary Drake is CEO and co-founder of Liminal Network. Hillary has over twenty years of experience in logistics working for manufacturers, resellers, and service providers. She is passionate about creating practical solutions to real-world problems.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2131",
+        "title": "Speed Networking #2 [Networking Lounge] ",
+        "description": "\n      Fast, fun, and a little chaotic (in a good way). Meet a bunch of people in a short amount of time through quick, structured rounds — perfect if you want to maximize connections.\n\nMinnebar is a great place to catch up with old friends, the Networking Lounge is a dedicated place to meet new people. Join us to chat about anything and everything.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community"
+        ],
+        "categories": [
+            "9"
+        ],
+        "participants": [],
+        "speakers": [
+            {
+                "speakerName": "Hillary Drake",
+                "speakerBio": "Hillary Drake is CEO and co-founder of Liminal Network. Hillary has over twenty years of experience in logistics working for manufacturers, resellers, and service providers. She is passionate about creating practical solutions to real-world problems.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2132",
+        "title": "Networking Lounge ",
+        "description": "\n      Minnebar is a great place to catch up with old friends, the Networking Lounge is a dedicated place to meet new people. Join us to chat about anything and everything.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community"
+        ],
+        "categories": [
+            "9"
+        ],
+        "participants": [],
+        "speakers": [
+            {
+                "speakerName": "Minnestar",
+                "speakerBio": "Minnestar is a nonprofit community organization that connects Minnesota’s tech ecosystem through free, inclusive, and community-led events. We’re best known for Minnebar and Minnedemo — spaces where technologists, founders, creatives, and curious minds come together to share ideas, demo projects, and support one another.\nAt Minnestar, we believe the best tech community is one that’s accessible, welcoming, and powered by the people in it.\nLearn more about Minnestar\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2133",
+        "title": "Women in Tech Meetup [Networking Lounge] ",
+        "description": "\n      A space to connect with and support women across the tech community. Open to all who want to build meaningful connections, share experiences, and strengthen the network.\n\nMinnebar is a great place to catch up with old friends, the Networking Lounge is a dedicated place to meet new people. Join us to chat about anything and everything.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community"
+        ],
+        "categories": [
+            "9"
+        ],
+        "participants": [
+            {
+                "name": "Alexis Logsdon",
+                "url": "/participants/6130"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Hillary Drake",
+                "speakerBio": "Hillary Drake is CEO and co-founder of Liminal Network. Hillary has over twenty years of experience in logistics working for manufacturers, resellers, and service providers. She is passionate about creating practical solutions to real-world problems.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2134",
+        "title": "Medtech & Med Device Meetup [Networking Lounge] ",
+        "description": "\n      Building in medtech or med-device? Connect with others working across healthcare innovation — from founders to operators to investors — and swap insights, challenges, and ideas.\n\nMinnebar is a great place to catch up with old friends, the Networking Lounge is a dedicated place to meet new people. Join us to chat about anything and everything.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community"
+        ],
+        "categories": [
+            "9"
+        ],
+        "participants": [],
+        "speakers": [
+            {
+                "speakerName": "Hillary Drake",
+                "speakerBio": "Hillary Drake is CEO and co-founder of Liminal Network. Hillary has over twenty years of experience in logistics working for manufacturers, resellers, and service providers. She is passionate about creating practical solutions to real-world problems.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2135",
+        "title": "Start Social Hour Early — Networking in Sandy’s ",
+        "description": "\n      Why wait? Head to Sandy’s and kick off the social hour early. Casual vibes, great conversations, and an easy transition into the evening.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Wildcard"
+        ],
+        "categories": [
+            "13"
+        ],
+        "participants": [],
+        "speakers": [
+            {
+                "speakerName": "Minnestar",
+                "speakerBio": "Minnestar is a nonprofit community organization that connects Minnesota’s tech ecosystem through free, inclusive, and community-led events. We’re best known for Minnebar and Minnedemo — spaces where technologists, founders, creatives, and curious minds come together to share ideas, demo projects, and support one another.\nAt Minnestar, we believe the best tech community is one that’s accessible, welcoming, and powered by the people in it.\nLearn more about Minnestar\n"
             }
         ],
         "list": "none"
