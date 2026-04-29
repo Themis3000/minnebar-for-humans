@@ -1,981 +1,986 @@
 [
-  {
-    "time": " 8:00 \u2013  8:30",
-    "title": "\ud83c\udf69 Registration / Breakfast",
-    "sessions": []
-  },
-  {
-    "time": " 8:30 \u2013  8:50",
-    "title": "Kickoff",
-    "sessions": []
-  },
-  {
-    "time": " 8:50 \u2013  9:30",
-    "title": "Session 0",
-    "sessions": []
-  },
-  {
-    "time": " 9:30 \u2013  4:50",
-    "title": "All day",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/1944",
-        "room": "Crow",
-        "id": "1944"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1943",
-        "room": "Hawk",
-        "id": "1943"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2028",
-        "room": "Turkey",
-        "id": "2028"
-      }
-    ]
-  },
-  {
-    "time": " 9:45 \u2013 10:25",
-    "title": "Session Block 1",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/1920",
-        "room": "Crow",
-        "id": "1920"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1927",
-        "room": "Turkey",
-        "id": "1927"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2004",
-        "room": "Goose",
-        "id": "2004"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2011",
-        "room": "Goose",
-        "id": "2011"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1965",
-        "room": "Crow",
-        "id": "1965"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1905",
-        "room": "Hawk",
-        "id": "1905"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2124",
-        "room": "Goose",
-        "id": "2124"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2005",
-        "room": "Crow",
-        "id": "2005"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2037",
-        "room": "Goose",
-        "id": "2037"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2043",
-        "room": "Turkey",
-        "id": "2043"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2100",
-        "room": "Goose",
-        "id": "2100"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2092",
-        "room": "Crow",
-        "id": "2092"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2067",
-        "room": "Hawk",
-        "id": "2067"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1934",
-        "room": "Goose",
-        "id": "1934"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1956",
-        "room": "Hawk",
-        "id": "1956"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2053",
-        "room": "Goose",
-        "id": "2053"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2117",
-        "room": "Crow",
-        "id": "2117"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2086",
-        "room": "Goose",
-        "id": "2086"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2084",
-        "room": "Crow",
-        "id": "2084"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2109",
-        "room": "Turkey",
-        "id": "2109"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2071",
-        "room": "Turkey",
-        "id": "2071"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1964",
-        "room": "Hawk",
-        "id": "1964"
-      }
-    ]
-  },
-  {
-    "time": "10:40 \u2013 11:20",
-    "title": "Session Block 2",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/2108",
-        "room": "Turkey",
-        "id": "2108"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1935",
-        "room": "Goose",
-        "id": "1935"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2096",
-        "room": "Hawk",
-        "id": "2096"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2017",
-        "room": "Crow",
-        "id": "2017"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1936",
-        "room": "Crow",
-        "id": "1936"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1969",
-        "room": "Crow",
-        "id": "1969"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2002",
-        "room": "Turkey",
-        "id": "2002"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1915",
-        "room": "Turkey",
-        "id": "1915"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2010",
-        "room": "Turkey",
-        "id": "2010"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2074",
-        "room": "Goose",
-        "id": "2074"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2063",
-        "room": "Goose",
-        "id": "2063"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2048",
-        "room": "Turkey",
-        "id": "2048"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1955",
-        "room": "Turkey",
-        "id": "1955"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1966",
-        "room": "Hawk",
-        "id": "1966"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2013",
-        "room": "Turkey",
-        "id": "2013"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2078",
-        "room": "Turkey",
-        "id": "2078"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2049",
-        "room": "Goose",
-        "id": "2049"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2093",
-        "room": "Goose",
-        "id": "2093"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2044",
-        "room": "Goose",
-        "id": "2044"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2030",
-        "room": "Crow",
-        "id": "2030"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2025",
-        "room": "Turkey",
-        "id": "2025"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2059",
-        "room": "Turkey",
-        "id": "2059"
-      }
-    ]
-  },
-  {
-    "time": "11:20 \u2013 12:30",
-    "title": "\ud83c\udf55 Early Lunch",
-    "sessions": []
-  },
-  {
-    "time": "11:35 \u2013 12:15",
-    "title": "Session Block 3",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/1932",
-        "room": "Goose",
-        "id": "1932"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2022",
-        "room": "Crow",
-        "id": "2022"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1910",
-        "room": "Turkey",
-        "id": "1910"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2014",
-        "room": "Crow",
-        "id": "2014"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1907",
-        "room": "Turkey",
-        "id": "1907"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1959",
-        "room": "Goose",
-        "id": "1959"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2050",
-        "room": "Turkey",
-        "id": "2050"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1953",
-        "room": "Hawk",
-        "id": "1953"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2042",
-        "room": "Goose",
-        "id": "2042"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2058",
-        "room": "Hawk",
-        "id": "2058"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1939",
-        "room": "Turkey",
-        "id": "1939"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1909",
-        "room": "Goose",
-        "id": "1909"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1899",
-        "room": "Crow",
-        "id": "1899"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1931",
-        "room": "Turkey",
-        "id": "1931"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1924",
-        "room": "Crow",
-        "id": "1924"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2046",
-        "room": "Crow",
-        "id": "2046"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2015",
-        "room": "Turkey",
-        "id": "2015"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2111",
-        "room": "Crow",
-        "id": "2111"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2088",
-        "room": "Turkey",
-        "id": "2088"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2094",
-        "room": "Crow",
-        "id": "2094"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2097",
-        "room": "Crow",
-        "id": "2097"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2082",
-        "room": "Turkey",
-        "id": "2082"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2054",
-        "room": "Goose",
-        "id": "2054"
-      }
-    ]
-  },
-  {
-    "time": "12:15 \u2013  1:25",
-    "title": "\ud83c\udf55 Regular Lunch",
-    "sessions": []
-  },
-  {
-    "time": "12:30 \u2013  1:10",
-    "title": "Session Block 4",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/1894",
-        "room": "Turkey",
-        "id": "1894"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1937",
-        "room": "Turkey",
-        "id": "1937"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1967",
-        "room": "Turkey",
-        "id": "1967"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2104",
-        "room": "Hawk",
-        "id": "2104"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2115",
-        "room": "Turkey",
-        "id": "2115"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2034",
-        "room": "Goose",
-        "id": "2034"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1940",
-        "room": "Turkey",
-        "id": "1940"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1896",
-        "room": "Crow",
-        "id": "1896"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2056",
-        "room": "Crow",
-        "id": "2056"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2023",
-        "room": "Crow",
-        "id": "2023"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1957",
-        "room": "Goose",
-        "id": "1957"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2036",
-        "room": "Goose",
-        "id": "2036"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2073",
-        "room": "Crow",
-        "id": "2073"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2045",
-        "room": "Goose",
-        "id": "2045"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2076",
-        "room": "Turkey",
-        "id": "2076"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2090",
-        "room": "Turkey",
-        "id": "2090"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2057",
-        "room": "Turkey",
-        "id": "2057"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2118",
-        "room": "Hawk",
-        "id": "2118"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2128",
-        "room": "Goose",
-        "id": "2128"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2119",
-        "room": "Crow",
-        "id": "2119"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2102",
-        "room": "Goose",
-        "id": "2102"
-      }
-    ]
-  },
-  {
-    "time": " 1:25 \u2013  2:05",
-    "title": "Session Block 5",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/2126",
-        "room": "Hawk",
-        "id": "2126"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1961",
-        "room": "Turkey",
-        "id": "1961"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1911",
-        "room": "Hawk",
-        "id": "1911"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1945",
-        "room": "Crow",
-        "id": "1945"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1893",
-        "room": "Crow",
-        "id": "1893"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1923",
-        "room": "Turkey",
-        "id": "1923"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2038",
-        "room": "Hawk",
-        "id": "2038"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1962",
-        "room": "Turkey",
-        "id": "1962"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2003",
-        "room": "Goose",
-        "id": "2003"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2080",
-        "room": "Turkey",
-        "id": "2080"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1919",
-        "room": "Turkey",
-        "id": "1919"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2007",
-        "room": "Turkey",
-        "id": "2007"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1954",
-        "room": "Hawk",
-        "id": "1954"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2055",
-        "room": "Crow",
-        "id": "2055"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2060",
-        "room": "Turkey",
-        "id": "2060"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1949",
-        "room": "Crow",
-        "id": "1949"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2114",
-        "room": "Goose",
-        "id": "2114"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2072",
-        "room": "Crow",
-        "id": "2072"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2041",
-        "room": "Crow",
-        "id": "2041"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2051",
-        "room": "Goose",
-        "id": "2051"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2112",
-        "room": "Goose",
-        "id": "2112"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2103",
-        "room": "Hawk",
-        "id": "2103"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2099",
-        "room": "Crow",
-        "id": "2099"
-      }
-    ]
-  },
-  {
-    "time": " 2:20 \u2013  3:00",
-    "title": "Session Block 6",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/1925",
-        "room": "Turkey",
-        "id": "1925"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1908",
-        "room": "Goose",
-        "id": "1908"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1951",
-        "room": "Turkey",
-        "id": "1951"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2052",
-        "room": "Goose",
-        "id": "2052"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2040",
-        "room": "Turkey",
-        "id": "2040"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2120",
-        "room": "Turkey",
-        "id": "2120"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1916",
-        "room": "Goose",
-        "id": "1916"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2095",
-        "room": "Goose",
-        "id": "2095"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2105",
-        "room": "Crow",
-        "id": "2105"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2083",
-        "room": "Goose",
-        "id": "2083"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2066",
-        "room": "Turkey",
-        "id": "2066"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2033",
-        "room": "Turkey",
-        "id": "2033"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2024",
-        "room": "Goose",
-        "id": "2024"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1929",
-        "room": "Crow",
-        "id": "1929"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2018",
-        "room": "Hawk",
-        "id": "2018"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2081",
-        "room": "Turkey",
-        "id": "2081"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1900",
-        "room": "Turkey",
-        "id": "1900"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2027",
-        "room": "Hawk",
-        "id": "2027"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2031",
-        "room": "Goose",
-        "id": "2031"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2062",
-        "room": "Crow",
-        "id": "2062"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2121",
-        "room": "Goose",
-        "id": "2121"
-      }
-    ]
-  },
-  {
-    "time": " 3:15 \u2013  3:55",
-    "title": "Session Block 7",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/1930",
-        "room": "Hawk",
-        "id": "1930"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1895",
-        "room": "Turkey",
-        "id": "1895"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2008",
-        "room": "Crow",
-        "id": "2008"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2061",
-        "room": "Turkey",
-        "id": "2061"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2107",
-        "room": "Goose",
-        "id": "2107"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1942",
-        "room": "Crow",
-        "id": "1942"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1933",
-        "room": "Goose",
-        "id": "1933"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2016",
-        "room": "Crow",
-        "id": "2016"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2101",
-        "room": "Crow",
-        "id": "2101"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1918",
-        "room": "Goose",
-        "id": "1918"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2089",
-        "room": "Hawk",
-        "id": "2089"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2122",
-        "room": "Turkey",
-        "id": "2122"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2006",
-        "room": "Crow",
-        "id": "2006"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2123",
-        "room": "Crow",
-        "id": "2123"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2021",
-        "room": "Turkey",
-        "id": "2021"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2032",
-        "room": "Turkey",
-        "id": "2032"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1913",
-        "room": "Crow",
-        "id": "1913"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2064",
-        "room": "Crow",
-        "id": "2064"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1963",
-        "room": "Hawk",
-        "id": "1963"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2069",
-        "room": "Goose",
-        "id": "2069"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2065",
-        "room": "Crow",
-        "id": "2065"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2075",
-        "room": "Hawk",
-        "id": "2075"
-      }
-    ]
-  },
-  {
-    "time": " 4:10 \u2013  4:50",
-    "title": "Session Block 8",
-    "sessions": [
-      {
-        "url": "https://sessions.minnestar.org/sessions/2029",
-        "room": "Hawk",
-        "id": "2029"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1921",
-        "room": "Goose",
-        "id": "1921"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1948",
-        "room": "Goose",
-        "id": "1948"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2047",
-        "room": "Goose",
-        "id": "2047"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2079",
-        "room": "Turkey",
-        "id": "2079"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1960",
-        "room": "Crow",
-        "id": "1960"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1958",
-        "room": "Goose",
-        "id": "1958"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1941",
-        "room": "Hawk",
-        "id": "1941"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1922",
-        "room": "Turkey",
-        "id": "1922"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1914",
-        "room": "Turkey",
-        "id": "1914"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1903",
-        "room": "Turkey",
-        "id": "1903"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1947",
-        "room": "Crow",
-        "id": "1947"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2026",
-        "room": "Goose",
-        "id": "2026"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2039",
-        "room": "Hawk",
-        "id": "2039"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2035",
-        "room": "Crow",
-        "id": "2035"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2125",
-        "room": "Turkey",
-        "id": "2125"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1904",
-        "room": "Goose",
-        "id": "1904"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1952",
-        "room": "Turkey",
-        "id": "1952"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/1917",
-        "room": "Hawk",
-        "id": "1917"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2098",
-        "room": "Goose",
-        "id": "2098"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2106",
-        "room": "Goose",
-        "id": "2106"
-      },
-      {
-        "url": "https://sessions.minnestar.org/sessions/2113",
-        "room": "Goose",
-        "id": "2113"
-      }
-    ]
-  },
-  {
-    "time": " 4:50 \u2013  7:00",
-    "title": "\ud83c\udf7b Social Hour",
-    "sessions": []
-  }
+    {
+        "time": " 8:00 –  8:30",
+        "title": "🍩 Registration / Breakfast",
+        "sessions": []
+    },
+    {
+        "time": " 8:30 –  8:50",
+        "title": "Kickoff",
+        "sessions": []
+    },
+    {
+        "time": " 8:50 –  9:30",
+        "title": "Session 0",
+        "sessions": []
+    },
+    {
+        "time": " 9:30 –  4:50",
+        "title": "All day",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/1944",
+                "room": "",
+                "id": "1944"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1943",
+                "room": "",
+                "id": "1943"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2028",
+                "room": "",
+                "id": "2028"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2132",
+                "room": "",
+                "id": "2132"
+            }
+        ]
+    },
+    {
+        "time": " 9:45 – 10:25",
+        "title": "Session Block 1",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/1920",
+                "room": "",
+                "id": "1920"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1927",
+                "room": "",
+                "id": "1927"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2004",
+                "room": "",
+                "id": "2004"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2011",
+                "room": "",
+                "id": "2011"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1905",
+                "room": "",
+                "id": "1905"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1965",
+                "room": "",
+                "id": "1965"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2005",
+                "room": "",
+                "id": "2005"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2037",
+                "room": "",
+                "id": "2037"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2100",
+                "room": "",
+                "id": "2100"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2124",
+                "room": "",
+                "id": "2124"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2092",
+                "room": "",
+                "id": "2092"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2043",
+                "room": "",
+                "id": "2043"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2067",
+                "room": "",
+                "id": "2067"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2053",
+                "room": "",
+                "id": "2053"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2109",
+                "room": "",
+                "id": "2109"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1956",
+                "room": "",
+                "id": "1956"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2117",
+                "room": "",
+                "id": "2117"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1934",
+                "room": "",
+                "id": "1934"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2086",
+                "room": "",
+                "id": "2086"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2084",
+                "room": "",
+                "id": "2084"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2071",
+                "room": "",
+                "id": "2071"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1964",
+                "room": "",
+                "id": "1964"
+            }
+        ]
+    },
+    {
+        "time": "10:40 – 11:20",
+        "title": "Session Block 2",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/2108",
+                "room": "",
+                "id": "2108"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1935",
+                "room": "",
+                "id": "1935"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2096",
+                "room": "",
+                "id": "2096"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2017",
+                "room": "",
+                "id": "2017"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2002",
+                "room": "",
+                "id": "2002"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2048",
+                "room": "",
+                "id": "2048"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1969",
+                "room": "",
+                "id": "1969"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1915",
+                "room": "",
+                "id": "1915"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2010",
+                "room": "",
+                "id": "2010"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1966",
+                "room": "",
+                "id": "1966"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2078",
+                "room": "",
+                "id": "2078"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2074",
+                "room": "",
+                "id": "2074"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1955",
+                "room": "",
+                "id": "1955"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2013",
+                "room": "",
+                "id": "2013"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2093",
+                "room": "",
+                "id": "2093"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2049",
+                "room": "",
+                "id": "2049"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2030",
+                "room": "",
+                "id": "2030"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2044",
+                "room": "",
+                "id": "2044"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2025",
+                "room": "",
+                "id": "2025"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2059",
+                "room": "",
+                "id": "2059"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2134",
+                "room": "",
+                "id": "2134"
+            }
+        ]
+    },
+    {
+        "time": "11:20 – 12:30",
+        "title": "🍕 Early Lunch",
+        "sessions": []
+    },
+    {
+        "time": "11:35 – 12:15",
+        "title": "Session Block 3",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/1932",
+                "room": "",
+                "id": "1932"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2022",
+                "room": "",
+                "id": "2022"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1910",
+                "room": "",
+                "id": "1910"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2014",
+                "room": "",
+                "id": "2014"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1907",
+                "room": "",
+                "id": "1907"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2058",
+                "room": "",
+                "id": "2058"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2042",
+                "room": "",
+                "id": "2042"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1959",
+                "room": "",
+                "id": "1959"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1953",
+                "room": "",
+                "id": "1953"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1939",
+                "room": "",
+                "id": "1939"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1909",
+                "room": "",
+                "id": "1909"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1899",
+                "room": "",
+                "id": "1899"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2130",
+                "room": "",
+                "id": "2130"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1924",
+                "room": "",
+                "id": "1924"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1931",
+                "room": "",
+                "id": "1931"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2111",
+                "room": "",
+                "id": "2111"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2046",
+                "room": "",
+                "id": "2046"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2054",
+                "room": "",
+                "id": "2054"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2088",
+                "room": "",
+                "id": "2088"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2015",
+                "room": "",
+                "id": "2015"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2097",
+                "room": "",
+                "id": "2097"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2094",
+                "room": "",
+                "id": "2094"
+            }
+        ]
+    },
+    {
+        "time": "12:15 –  1:25",
+        "title": "🍕 Regular Lunch",
+        "sessions": []
+    },
+    {
+        "time": "12:30 –  1:10",
+        "title": "Session Block 4",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/1894",
+                "room": "",
+                "id": "1894"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1967",
+                "room": "",
+                "id": "1967"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2034",
+                "room": "",
+                "id": "2034"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1937",
+                "room": "",
+                "id": "1937"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2104",
+                "room": "",
+                "id": "2104"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2115",
+                "room": "",
+                "id": "2115"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2023",
+                "room": "",
+                "id": "2023"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1896",
+                "room": "",
+                "id": "1896"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2056",
+                "room": "",
+                "id": "2056"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1957",
+                "room": "",
+                "id": "1957"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2036",
+                "room": "",
+                "id": "2036"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2073",
+                "room": "",
+                "id": "2073"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2076",
+                "room": "",
+                "id": "2076"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2118",
+                "room": "",
+                "id": "2118"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2045",
+                "room": "",
+                "id": "2045"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2057",
+                "room": "",
+                "id": "2057"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2090",
+                "room": "",
+                "id": "2090"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2128",
+                "room": "",
+                "id": "2128"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2119",
+                "room": "",
+                "id": "2119"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2102",
+                "room": "",
+                "id": "2102"
+            }
+        ]
+    },
+    {
+        "time": " 1:25 –  2:05",
+        "title": "Session Block 5",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/2126",
+                "room": "",
+                "id": "2126"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1961",
+                "room": "",
+                "id": "1961"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1911",
+                "room": "",
+                "id": "1911"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1945",
+                "room": "",
+                "id": "1945"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1893",
+                "room": "",
+                "id": "1893"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2080",
+                "room": "",
+                "id": "2080"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2038",
+                "room": "",
+                "id": "2038"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1923",
+                "room": "",
+                "id": "1923"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2020",
+                "room": "",
+                "id": "2020"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1962",
+                "room": "",
+                "id": "1962"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2003",
+                "room": "",
+                "id": "2003"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2007",
+                "room": "",
+                "id": "2007"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1919",
+                "room": "",
+                "id": "1919"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2055",
+                "room": "",
+                "id": "2055"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1949",
+                "room": "",
+                "id": "1949"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2060",
+                "room": "",
+                "id": "2060"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1954",
+                "room": "",
+                "id": "1954"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2114",
+                "room": "",
+                "id": "2114"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2072",
+                "room": "",
+                "id": "2072"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2041",
+                "room": "",
+                "id": "2041"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2051",
+                "room": "",
+                "id": "2051"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2112",
+                "room": "",
+                "id": "2112"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2099",
+                "room": "",
+                "id": "2099"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2103",
+                "room": "",
+                "id": "2103"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2131",
+                "room": "",
+                "id": "2131"
+            }
+        ]
+    },
+    {
+        "time": " 2:20 –  3:00",
+        "title": "Session Block 6",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/1925",
+                "room": "",
+                "id": "1925"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1908",
+                "room": "",
+                "id": "1908"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2052",
+                "room": "",
+                "id": "2052"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1951",
+                "room": "",
+                "id": "1951"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2040",
+                "room": "",
+                "id": "2040"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2120",
+                "room": "",
+                "id": "2120"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1916",
+                "room": "",
+                "id": "1916"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2095",
+                "room": "",
+                "id": "2095"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2105",
+                "room": "",
+                "id": "2105"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2066",
+                "room": "",
+                "id": "2066"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2024",
+                "room": "",
+                "id": "2024"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2083",
+                "room": "",
+                "id": "2083"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2081",
+                "room": "",
+                "id": "2081"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2033",
+                "room": "",
+                "id": "2033"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1929",
+                "room": "",
+                "id": "1929"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2018",
+                "room": "",
+                "id": "2018"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2062",
+                "room": "",
+                "id": "2062"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2027",
+                "room": "",
+                "id": "2027"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1900",
+                "room": "",
+                "id": "1900"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2031",
+                "room": "",
+                "id": "2031"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2121",
+                "room": "",
+                "id": "2121"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2133",
+                "room": "",
+                "id": "2133"
+            }
+        ]
+    },
+    {
+        "time": " 3:15 –  3:55",
+        "title": "Session Block 7",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/1930",
+                "room": "",
+                "id": "1930"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2008",
+                "room": "",
+                "id": "2008"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2061",
+                "room": "",
+                "id": "2061"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1895",
+                "room": "",
+                "id": "1895"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2089",
+                "room": "",
+                "id": "2089"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2107",
+                "room": "",
+                "id": "2107"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1950",
+                "room": "",
+                "id": "1950"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2101",
+                "room": "",
+                "id": "2101"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1940",
+                "room": "",
+                "id": "1940"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1933",
+                "room": "",
+                "id": "1933"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2123",
+                "room": "",
+                "id": "2123"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1942",
+                "room": "",
+                "id": "1942"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2006",
+                "room": "",
+                "id": "2006"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2016",
+                "room": "",
+                "id": "2016"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2122",
+                "room": "",
+                "id": "2122"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1918",
+                "room": "",
+                "id": "1918"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2021",
+                "room": "",
+                "id": "2021"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1913",
+                "room": "",
+                "id": "1913"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2064",
+                "room": "",
+                "id": "2064"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2069",
+                "room": "",
+                "id": "2069"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2065",
+                "room": "",
+                "id": "2065"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2075",
+                "room": "",
+                "id": "2075"
+            }
+        ]
+    },
+    {
+        "time": " 4:10 –  4:50",
+        "title": "Session Block 8",
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/1921",
+                "room": "",
+                "id": "1921"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2029",
+                "room": "",
+                "id": "2029"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2047",
+                "room": "",
+                "id": "2047"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2079",
+                "room": "",
+                "id": "2079"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1960",
+                "room": "",
+                "id": "1960"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1948",
+                "room": "",
+                "id": "1948"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1958",
+                "room": "",
+                "id": "1958"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1941",
+                "room": "",
+                "id": "1941"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2039",
+                "room": "",
+                "id": "2039"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1922",
+                "room": "",
+                "id": "1922"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1914",
+                "room": "",
+                "id": "1914"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1903",
+                "room": "",
+                "id": "1903"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2125",
+                "room": "",
+                "id": "2125"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2026",
+                "room": "",
+                "id": "2026"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1904",
+                "room": "",
+                "id": "1904"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2035",
+                "room": "",
+                "id": "2035"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2098",
+                "room": "",
+                "id": "2098"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1952",
+                "room": "",
+                "id": "1952"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/1917",
+                "room": "",
+                "id": "1917"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2135",
+                "room": "",
+                "id": "2135"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2113",
+                "room": "",
+                "id": "2113"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2106",
+                "room": "",
+                "id": "2106"
+            }
+        ]
+    },
+    {
+        "time": " 4:50 –  7:00",
+        "title": "🍻 Social Hour",
+        "sessions": []
+    }
 ]
