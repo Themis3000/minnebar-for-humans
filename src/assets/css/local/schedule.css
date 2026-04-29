@@ -34,4 +34,9 @@
         display: grid;
         grid-template-columns: 100%;
     }
+
+    .schd-timeslot {
+        justify-self: center;
+        width: 100vw;
+    }
 }
