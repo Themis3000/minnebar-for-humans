@@ -1,5 +1,6 @@
-#main {
-    font-family: Verdana, sans-serif;
+.roomName {
+    color: #7ac2db;
+    float: right;
 }
 
 .schd-timeslot {
@@ -28,29 +29,7 @@
 }
 
 .schd-session {
-    margin: 23px 37px;
-}
-
-.schd-session-title {
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.schd-room {
-    font-size: 20px;
-    color: #7ac2db;
-    float: right;
-    margin-top: 5px;
-    margin-left: 6px;
-}
-
-.schd-session-header {
-    cursor: pointer;
-}
-
-.schd-session-description {
-    font-size: 18px;
-    margin: 5px;
+    margin: 13px 27px;
 }
 
 @media (width <= 800px) {
