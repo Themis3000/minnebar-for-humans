@@ -1,27 +1,36 @@
 ---
 title: Schedule
 permalink: /schedule/index.html
-layout: base
+layout: page
 ---
 
 {% set categoriesById = categories | toObject("id") %}
 
 {% for timeBlock in schedule %}
-  <div class="schd-timeslot">
-    <div class="schd-timeslot-header">
-      <div class="schd-time">{{ timeBlock.time }}</div>
-      <div class="schd-title">{{ timeBlock.title }}</div>
+  {% if timeBlock.sessions | length > 0 %}
+    <details class="schd-timeslot">
+      <summary class="schd-timeslot-header">
+        <span class="schd-time">{{ timeBlock.time }}</span>
+        <span class="schd-title">{{ timeBlock.title }}</span>
+      </summary>
+      <div class="schd-sessions">
+        {% for schdSessionEntry in timeBlock.sessions %}
+          {% set session = sessions | findAttr("url", schdSessionEntry["url"]) %}
+          {% set roomName = schdSessionEntry["room"] %}
+          <div class="schd-session">
+            {% include 'partials/session-list-entry.njk' %}
+          </div>
+        {% endfor %}
+      </div>
+    </details>
+  {% else %}
+    <div class="schd-timeslot">
+      <div class="schd-timeslot-header">
+        <span class="schd-time">{{ timeBlock.time }}</span>
+        <span class="schd-title">{{ timeBlock.title }}</span>
+      </div>
     </div>
-    <div class="schd-sessions">
-      {% for schdSessionEntry in timeBlock.sessions %}
-        {% set session = sessions | findAttr("url", schdSessionEntry["url"]) %}
-        {% set roomName = schdSessionEntry["room"] %}
-        <div class="schd-session">
-          {% include 'partials/session-list-entry.njk' %}
-        </div>
-      {% endfor %}
-    </div>
-  </div>
+  {% endif %}
 {% endfor %}
 
 {%- css "local" -%}
