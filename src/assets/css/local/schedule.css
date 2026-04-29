@@ -1,26 +1,18 @@
 .roomName {
-    color: #7ac2db;
+    color: var(--color-blue);
     float: right;
 }
 
-.schd-timeslot {
-    margin: 0;
-}
-
 .schd-timeslot-header {
-    background-color: #434688;
+    color: var(--color-pink-subdued);
+    font-family: var(--font-display);
+    font-size: var(--size-step-1);
+    background: var(--gradient-stripes);
     padding: 15px 30px;
-    font-size: 30px;
-}
-
-.schd-time {
-    display: inline;
-    font-weight: bold;
 }
 
 .schd-title {
-    display: inline;
-    margin-left: 10px;
+    margin-left: var(--space-s);
 }
 
 .schd-sessions {
