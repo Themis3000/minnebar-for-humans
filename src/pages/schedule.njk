@@ -15,11 +15,13 @@ layout: page
       </summary>
       <div class="schd-sessions">
         {% for schdSessionEntry in timeBlock.sessions %}
-          {% set session = sessions | findAttr("url", schdSessionEntry["url"]) %}
           {% set roomName = schdSessionEntry["room"] %}
-          <div class="schd-session">
-            {% include 'partials/session-list-entry.njk' %}
-          </div>
+          {% set session = sessions | findAttr("url", schdSessionEntry["url"]) %}
+          {% if session.list != "ai" %}
+            <div class="schd-session">
+              {% include 'partials/session-list-entry.njk' %}
+            </div>
+          {% endif %}
         {% endfor %}
       </div>
     </details>
