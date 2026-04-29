@@ -29,4 +29,8 @@
         display: grid;
         grid-template-columns: 100%;
     }
+
+    .schd-timeslot-header {
+        background: var(--color-gray-900);
+    }
 }
