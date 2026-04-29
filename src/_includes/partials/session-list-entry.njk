@@ -1,4 +1,9 @@
 <p>
+  {% if roomName %}
+    <span class="roomName">
+      {{ roomName }}
+    </span>
+  {% endif %}
   <a href={{ session.url }}>
     {{ session.title }}
   </a>

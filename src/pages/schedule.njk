@@ -4,6 +4,8 @@ permalink: /schedule/index.html
 layout: base
 ---
 
+{% set categoriesById = categories | toObject("id") %}
+
 {% for timeBlock in schedule %}
   <div class="schd-timeslot">
     <div class="schd-timeslot-header">
@@ -13,29 +15,14 @@ layout: base
     <div class="schd-sessions">
       {% for schdSessionEntry in timeBlock.sessions %}
         {% set session = sessions | findAttr("url", schdSessionEntry["url"]) %}
+        {% set roomName = schdSessionEntry["room"] %}
         <div class="schd-session">
-          <div class="schd-session-header" onclick="headerClick({{ schdSessionEntry["id"] }})">
-            <div class="schd-room">{{ schdSessionEntry["room"] }}</div>
-            <div class="schd-session-title">{{ session.title }}</div>
-          </div>
-          <div class="schd-session-description" style="display: none" data-session-id="{{ schdSessionEntry["id"] }}">
-            <p>{{ session.description | trim | escape | nl2br | safe }}</p>
-          </div>
+          {% include 'partials/session-list-entry.njk' %}
         </div>
       {% endfor %}
     </div>
   </div>
 {% endfor %}
-
-<script>
-  function headerClick(sessionId) {
-    const descriptionElement = document.querySelector(`[data-session-id='${sessionId}']`);
-    if (descriptionElement.style.display === "none")
-      descriptionElement.style.display = "block";
-    else
-      descriptionElement.style.display = "none";
-  }
-</script>
 
 {%- css "local" -%}
   {%- include 'css/schedule.css' -%}
