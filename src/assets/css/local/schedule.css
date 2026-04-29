@@ -36,4 +36,9 @@
     .schd-timeslot-header {
         background: var(--color-gray-900);
     }
+
+    .schd-timeslot {
+        justify-self: center;
+        width: 100vw;
+    }
 }
