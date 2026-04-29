@@ -1,6 +1,10 @@
 export default {
   top: [
     {
+      text: 'Schedule',
+      url: '/schedule/'
+    },
+    {
       text: 'All sessions',
       url: '/sessions/'
     },
