@@ -39,4 +39,8 @@
         justify-self: center;
         width: 100vw;
     }
+
+    #page-title {
+        text-align: center;
+    }
 }
