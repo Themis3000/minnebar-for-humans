@@ -1,0 +1,18 @@
+---
+title: Overlap calculator
+permalink: /stats/overlap.html
+layout: page
+---
+<label>
+  Session URL 1
+  <input type="text" id="input1">
+</label>
+<label>
+  Session URL 2
+  <input type="text" id="input2">
+</label>
+<p>Overlap amount: <span id="overlapSpan"></span></p>
+
+{%- js "inline" %}
+  {% include "scripts/overlap-calculator.js" %}
+{% endjs %}

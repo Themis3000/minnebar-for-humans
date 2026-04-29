@@ -9,6 +9,10 @@ const sessionDetails = JSON.parse(readFile);
 const categoriesReadFile = fs.readFileSync(categoriesFile);
 const categories = JSON.parse(categoriesReadFile);
 
+//
+// Compiles the main ai vs non-ai stats
+//
+
 const categoryCounter = {}
 for (const category of categories) {
   const categoryId = category["id"];
@@ -53,6 +57,46 @@ for (const [id ,category] of Object.entries(categoryCounter)) {
   category["ppSessionsAi"] = category["aiSessions"] / (category["nonAiSessions"] + category["aiSessions"]) * 100;
 }
 
-const outData = {"overall": overallCounter, "byCategory": categoryCounter};
 
+
+//
+// Compiles the per-user stats
+//
+const participantVotes = {};
+
+for (const session of sessionDetails) {
+  const sessionId = session["url"];
+  for (const participant of session["participants"]) {
+    const participantId = participant["url"];
+    if (!(participantId in participantVotes))
+      participantVotes[participantId] = [];
+    participantVotes[participantId].push(sessionId);
+  }
+}
+
+//
+// Compiles connections between sessions based on per user stats
+//
+const connections = [];
+for (const [participant, votes] of Object.entries(participantVotes)) {
+  for (const [index, vote] of Object.entries(votes)) {
+    const nextVotes = votes.slice(parseInt(index) + 1);
+    for (const nextVote of nextVotes) {
+      let connection = connections.find((connection) => {
+        return connection["source"] === vote && connection["target"] === nextVote ||
+          connection["source"] === nextVote && connection["target"] === vote
+      });
+      if (!connection) {
+        connection = {"source": vote, "target": nextVote, "count": 0}
+        connections.push(connection);
+      }
+      connection["count"]++;
+    }
+  }
+}
+
+//
+// Writes the stats data to the output file
+//
+const outData = {"overall": overallCounter, "byCategory": categoryCounter, connections};
 fs.writeFileSync(outFile, JSON.stringify(outData, null, 4));

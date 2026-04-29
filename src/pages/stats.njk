@@ -18,7 +18,13 @@ layout: page
      stats["overall"]["ppVotesAi"]) }}
 </div>
 
+<svg class="forces" style="width: 900px;height: 900px;"></svg>
+
 {%- css "local" -%}
   {%- include 'css/stats-macros.css' -%}
   {%- include 'css/stats.css' -%}
 {%- endcss -%}
+
+{%- js "defer" %}
+  {% include "scripts/force-chart.js" %}
+{% endjs %}
