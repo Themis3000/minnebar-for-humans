@@ -3,11 +3,6 @@
     float: right;
 }
 
-.schd-timeslot, #page-title {
-    justify-self: center;
-    width: 75vw;
-}
-
 .schd-timeslot-header {
     color: var(--color-pink-subdued);
     font-family: var(--font-display);
