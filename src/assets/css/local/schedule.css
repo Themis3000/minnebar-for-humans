@@ -14,6 +14,22 @@
     z-index: 2;
 }
 
+.schd-timeslot-header .text-outline {
+  text-shadow:
+    2px 2px 0 var(--color-gray-900),
+    -1px 1px 0 var(--color-gray-900),
+    -1px -1px 0 var(--color-gray-900),
+    1px -1px 0 var(--color-gray-900),
+    0.5px 0.5px 0 var(--color-gray-900),
+    -0.5px 0.5px 0 var(--color-gray-900),
+    -0.5px -0.5px 0 var(--color-gray-900),
+    0.5px -0.5px 0 var(--color-gray-900),
+    0 1px 0 var(--color-gray-900),
+    -1px 0 0 var(--color-gray-900),
+    0 -1px 0 var(--color-gray-900),
+    1px 0 0 var(--color-gray-900);
+}
+
 .schd-title {
     margin-left: var(--space-s);
 }
@@ -31,10 +47,6 @@
     .schd-sessions {
         display: grid;
         grid-template-columns: 100%;
-    }
-
-    .schd-timeslot-header {
-        background: var(--color-gray-900);
     }
 
     .schd-timeslot {
