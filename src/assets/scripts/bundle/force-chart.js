@@ -29,6 +29,9 @@ window.addEventListener("load", (e) => {
   const svg = d3.select(".forces");
   const width = 900;
   const height = 900;
+  const maxWidth = 900;
+  const maxHeight = 900;
+  const repellingInput = document.getElementById("repelling-force");
 
   const simulation = d3
     .forceSimulation(sessions)
@@ -74,8 +77,8 @@ window.addEventListener("load", (e) => {
         .on("start", (d) => {
           if (!d.active)
             simulation.alphaTarget(0.3).restart();
-            d.subject.fx = d.subject.x;
-            d.subject.fy = d.subject.y;
+          d.subject.fx = d.subject.x;
+          d.subject.fy = d.subject.y;
         })
         .on("drag", (d) => {
           d.subject.fx = d.x;
@@ -115,8 +118,8 @@ window.addEventListener("load", (e) => {
   function ticked() {
     for (const session of sessions) {
       const size = session["nodeSize"];
-      session["x"] = inRange(session["x"], width - size, size);
-      session["y"] = inRange(session["y"], height - size, size);
+      session["x"] = inRange(session["x"], maxWidth - size, (maxWidth - width) + size);
+      session["y"] = inRange(session["y"], maxHeight - size, (maxHeight - height) + size);
     }
 
     link
@@ -180,6 +183,19 @@ window.addEventListener("load", (e) => {
         return "";
       });
   }
+
+  function heatUpSim() {
+    simulation.alphaTarget(0.3).restart();
+    setTimeout(() => {
+      simulation.alphaTarget(0);
+    }, 300);
+  }
+
+  repellingInput.addEventListener("input", () => {
+    const newValue = repellingInput.value * -1;
+    simulation.force("manybody").strength(newValue);
+    heatUpSim();
+  });
 });
 
 function areaToRadius(area) {
