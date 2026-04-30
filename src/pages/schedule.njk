@@ -13,14 +13,42 @@ layout: page
         <span class="schd-time text-outline">{{ timeBlock.time }}</span>
         <span class="schd-title text-outline"">{{ timeBlock.title }}</span>
       </summary>
-      <div class="schd-sessions">
+      <div class="schd-sessions grid gutter-s-m" data-layout="50-50">
         {% for schdSessionEntry in timeBlock.sessions %}
           {% set roomName = schdSessionEntry["room"] %}
           {% set session = sessions | findAttr("url", schdSessionEntry["url"]) %}
           {% if session.list != "ai" %}
-            <div class="schd-session">
-              {% include 'partials/session-list-entry.njk' %}
-            </div>
+            <custom-card class="schd-session" clickable>
+              <a slot="headline" href={{ session.url }}>
+                {{ session.title }}
+              </a>
+              <span slot="date">
+                {% set comma = joiner() %}
+                {% for speaker in session.speakers -%}
+                  {{ comma() }} {{ speaker.speakerName }}
+                {%- endfor %}
+              </span>
+              {% if roomName %}
+                <span slot="tag" class="button roomName">{{ roomName }}</span>
+              {% endif %}
+              <p slot="footer">
+                {% for categoryId in session.categories %}
+                  <span
+                    class="button"
+                    data-small-button
+                    style="
+                      text-transform: none;
+                      --button-font-size: var(--size-step-min-2);
+                      --button-bg: var(--color-bg-accent);
+                      --button-color: var(--color-text-accent);
+                      --button-border-color: var(--color-bg-accent-2);
+                    "
+                  >
+                    {{ categoriesById[categoryId].name }}
+                  </span>
+                {% endfor %}
+              </p>
+            </custom-card>
           {% endif %}
         {% endfor %}
       </div>
@@ -37,4 +65,5 @@ layout: page
 
 {%- css "local" -%}
   {%- include 'css/schedule.css' -%}
+  {%- include "css/custom-card.css" -%}
 {%- endcss -%}

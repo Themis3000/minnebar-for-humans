@@ -1,13 +1,32 @@
 .roomName {
-    color: var(--color-blue);
-    float: right;
+    --button-bg: var(--color-blue);
+    --button-color: var(--color-text);
+    font-size: var(--size-step-s);
+}
+
+.schd-timeslot {
+    border-image-source: linear-gradient(
+      235deg,
+      var(--color-tertiary) 0 8cqw,
+      var(--color-secondary) 0 15cqw,
+      var(--color-primary) 0 25cqw
+    );
+    border-image-width: 4px 0 0 0;
+    border-image-repeat: stretch;
+    border-image-slice: 4 0 0 0;
+    background: linear-gradient(
+      235deg,
+      var(--color-tertiary) 0 8cqw,
+      var(--color-secondary) 0 15cqw,
+      var(--color-primary) 0 25cqw,
+      #00000000 0
+    );
 }
 
 .schd-timeslot-header {
     color: var(--color-pink-subdued);
     font-family: var(--font-display);
     font-size: var(--size-step-1);
-    background: var(--gradient-stripes);
     padding: 15px 30px;
     position: sticky;
     top: 0;
@@ -16,41 +35,28 @@
 
 .schd-timeslot-header .text-outline {
   text-shadow:
-    2px 2px 0 var(--color-gray-900),
-    -1px 1px 0 var(--color-gray-900),
-    -1px -1px 0 var(--color-gray-900),
-    1px -1px 0 var(--color-gray-900),
-    0.5px 0.5px 0 var(--color-gray-900),
-    -0.5px 0.5px 0 var(--color-gray-900),
-    -0.5px -0.5px 0 var(--color-gray-900),
-    0.5px -0.5px 0 var(--color-gray-900),
-    0 1px 0 var(--color-gray-900),
-    -1px 0 0 var(--color-gray-900),
-    0 -1px 0 var(--color-gray-900),
-    1px 0 0 var(--color-gray-900);
+    2px 2px 0 var(--color-bg),
+    -1px 1px 0 var(--color-bg),
+    -1px -1px 0 var(--color-bg),
+    1px -1px 0 var(--color-bg),
+    0.5px 0.5px 0 var(--color-bg),
+    -0.5px 0.5px 0 var(--color-bg),
+    -0.5px -0.5px 0 var(--color-bg),
+    0.5px -0.5px 0 var(--color-bg),
+    0 1px 0 var(--color-bg),
+    -1px 0 0 var(--color-bg),
+    0 -1px 0 var(--color-bg),
+    1px 0 0 var(--color-bg);
 }
 
 .schd-title {
     margin-left: var(--space-s);
 }
 
-.schd-sessions {
-    display: grid;
-    grid-template-columns: 50% 50%;
-}
-
 .schd-session {
-    margin: 13px 27px;
+    --flow-space:var(--space-xs);
 }
 
-@media (width <= 800px) {
-    .schd-sessions {
-        display: grid;
-        grid-template-columns: 100%;
-    }
-
-    .schd-timeslot {
-        justify-self: center;
-        width: 100vw;
-    }
+.schd-sessions {
+  padding: var(--space-xs-s);
 }
