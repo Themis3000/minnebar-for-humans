@@ -29,7 +29,7 @@ layout: page
                 {%- endfor %}
               </span>
               {% if roomName %}
-                <span slot="tag" class="button roomName">{{ roomName }}</span>
+                <span slot="tag" class="button roomName">{% svg "misc/map" %} {{ roomName }}</span>
               {% endif %}
               <p slot="footer">
                 {% for categoryId in session.categories %}
