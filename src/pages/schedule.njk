@@ -19,7 +19,7 @@ layout: page
           {% set session = sessions | findAttr("url", schdSessionEntry["url"]) %}
           {% if session.list != "ai" %}
             <custom-card class="schd-session" clickable>
-              <a slot="headline" href={{ session.url }}>
+              <a class="no-indicator" slot="headline" href={{ session.url }}>
                 {{ session.title }}
               </a>
               <span slot="date">
