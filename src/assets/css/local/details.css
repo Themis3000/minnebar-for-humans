@@ -38,6 +38,7 @@ is-land:not(:defined) .details .control {
   font-weight: var(--font-regular);
   line-height: 0.5;
   transform-origin: right bottom;
+  margin-right: -0.4em;
 }
 
 .details details[open] summary::before {

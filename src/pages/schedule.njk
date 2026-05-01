@@ -15,8 +15,10 @@ layout: page
     {% if timeBlock.sessions | length > 0 %}
       <details class="schd-timeslot stripes" id="{{ timeBlock.title | slugify }}">
         <summary class="schd-timeslot-header stripes">
-          <span class="schd-time text-outline">{{ timeBlock.time }}</span>
-          <span class="schd-title text-outline"">{{ timeBlock.title }}</span>
+          <div>
+            <span class="schd-time text-outline">{{ timeBlock.time }}</span>
+            <span class="schd-title text-outline"">{{ timeBlock.title }}</span>
+          </div>
         </summary>
         <div class="schd-sessions grid gutter-s-m" data-layout="50-50">
           {% for schdSessionEntry in timeBlock.sessions %}

@@ -27,7 +27,7 @@
     color: var(--color-pink-subdued);
     font-family: var(--font-display);
     font-size: var(--size-step-1);
-    padding: 15px 30px;
+    padding: var(--space-m) 0;
     position: sticky;
     top: 0;
     z-index: 2;
@@ -51,7 +51,7 @@
 }
 
 .schd-title {
-    margin-left: var(--space-s);
+    margin-left: var(--space-xs-s);
 }
 
 .schd-session {
