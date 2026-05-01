@@ -4,7 +4,7 @@
     font-size: var(--size-step-s);
 }
 
-.schd-timeslot {
+.stripes {
     border-image-source: linear-gradient(
       235deg,
       var(--color-tertiary) 0 8cqw,
@@ -31,6 +31,7 @@
     position: sticky;
     top: 0;
     z-index: 2;
+    background-color: var(--color-bg);
 }
 
 .schd-timeslot-header .text-outline {

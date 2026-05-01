@@ -8,8 +8,8 @@ layout: page
 
 {% for timeBlock in schedule %}
   {% if timeBlock.sessions | length > 0 %}
-    <details class="schd-timeslot">
-      <summary class="schd-timeslot-header">
+    <details class="schd-timeslot stripes">
+      <summary class="schd-timeslot-header stripes">
         <span class="schd-time text-outline">{{ timeBlock.time }}</span>
         <span class="schd-title text-outline">{{ timeBlock.title }}</span>
       </summary>
@@ -55,7 +55,7 @@ layout: page
     </details>
   {% else %}
     <div class="schd-timeslot">
-      <div class="schd-timeslot-header">
+      <div class="schd-timeslot-header stripes">
         <span class="schd-time text-outline">{{ timeBlock.time }}</span>
         <span class="schd-title text-outline">{{ timeBlock.title }}</span>
       </div>
