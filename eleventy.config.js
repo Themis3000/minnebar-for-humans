@@ -26,7 +26,7 @@ import { HtmlBasePlugin } from '@11ty/eleventy';
 export default async function (eleventyConfig) {
   // --------------------- Events: before build
   eleventyConfig.on('eleventy.before', async () => {
-    await events.buildAllCss();
+    await events.buildAllCss(eleventyConfig.pathPrefix);
     await events.buildAllJs();
   });
 
