@@ -19174,83 +19174,6 @@
         "list": "ai"
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/2111",
-        "title": "The AI Native SDLC: Idea to Working Code at Scale, Live ",
-        "description": "\n      I've been putting together a workflow that uses Claude Code Plugins, a custom docs MCP server, and the Linear MCP to take an idea from rough sketch to work items that are actually ready to build, and then from tickets into working code. This talk is a live walkthrough of that.\n\nI'll start with a brand new idea and take it through the whole flow in front of you. A PM-style prototype turning into scoped Linear tickets, Claude Code picking those tickets up, and doing the implementation work. Along the way I'll compare each step to how the same thing would play out in a more traditional flow, since that's where the value becomes obvious.\n\nThe stack:\n\n\n\nClaude Code Plugins for role-specific workflows, so the PM step, the engineering step, and the review step each have their own purpose-built experience\n\nA custom docs MCP server that gives every agent the same grounding in product context, architecture, and team conventions\n\nThe Linear MCP so the output lands as real work items, not yet another tool your team has to remember to check\n\n\nIf you're a PM trying to hand engineering better-formed ideas, an engineer tired of untangling half-baked tickets, or a founder looking to cut down on handoffs between idea and code, I think you'll get something out of this one.\n\n      \n    ",
-        "tags": [
-            "All levels",
-            "Development",
-            "AI/ML",
-            "Product"
-        ],
-        "categories": [
-            "2",
-            "7",
-            "8"
-        ],
-        "participants": [
-            {
-                "name": "Joe Quarion",
-                "url": "/participants/1060"
-            },
-            {
-                "name": "Harriet Coverston",
-                "url": "/participants/1961"
-            },
-            {
-                "name": "Michael Halagan",
-                "url": "/participants/3572"
-            },
-            {
-                "name": "Niraikalai Vijay",
-                "url": "/participants/5306"
-            },
-            {
-                "name": "Mel Bernstein",
-                "url": "/participants/6261"
-            },
-            {
-                "name": "Andrew Fraser",
-                "url": "/participants/6367"
-            },
-            {
-                "name": "Bo Driscoll",
-                "url": "/participants/6492"
-            },
-            {
-                "name": "Jacob Astar",
-                "url": "/participants/6773"
-            },
-            {
-                "name": "Andy Ganoe",
-                "url": "/participants/7033"
-            },
-            {
-                "name": "Nadir Doctor",
-                "url": "/participants/7039"
-            },
-            {
-                "name": "Mark Mykkanen",
-                "url": "/participants/7089"
-            },
-            {
-                "name": "Misty Garrick",
-                "url": "/participants/7096"
-            },
-            {
-                "name": "Kevin Olson",
-                "url": "/participants/7129"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Michael Halagan",
-                "speakerBio": "Mike Halagan is the founder and CEO of Local AI, a Twin Cities consulting firm that helps companies put AI to work in production. He's spent the last 15+ years building ML and AI systems, starting as a bioinformatics scientist at Be The Match working on bone marrow donor-recipient matching, then moving through data science, engineering, and leadership roles at C.H. Robinson where he eventually led 50+ engineers across five teams. The dynamic pricing engine his teams shipped became a recurring talking point on quarterly earnings calls.\nThese days he spends most of his time embedded with client engineering teams, designing and shipping LLM and agent-based systems on AWS Bedrock AgentCore and Azure Agent Service. Recent work has included customer-facing chatbots, underwriting agents, compliance automation, and end-to-end MLOps platforms for clients in healthcare, insurance, retail, and logistics. \nBased in Maple Grove. M.S. in Biomedical Informatics & Computational Biology from the University of Minnesota.\nLinkedIn\n"
-            }
-        ],
-        "list": "ai"
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/2112",
         "title": "Mouth to MIDI in 11 Milliseconds: A Live Beatbox Drum Engine I Built on Nights and Weekends ",
         "description": "\n      Lots of AI sessions this year are about text. This one is about your mouth.\n\nBeastBox is a real-time beatbox-to-MIDI engine I've been building on nights and weekends. You make a kick-drum sound. 11 milliseconds later, a real kick drum hits. Snare, hi-hat? Same thing. No quantization, no lag you can feel, no cloud round-trip. Just a microphone, a tiny CNN, and a lot of C++ behind the curtain.\n\nWhat you'll see, live on stage:\n\n\nI'll beatbox a full drum pattern and you'll hear it come back as a real drum kit in real time\nThe visualizer shows the onset detector firing and the CNN's class probabilities updating hit by hit\nA guided tour of the architecture: an ONNX model trained in PyTorch, a native JUCE audio engine, cross-platform native code, and a Flutter UI bridged in with a lock-free ring buffer\nWhat breaks, what surprised me, what I'd do differently\nThe specific tricks that got end-to-end latency under 20ms (typically 9 to 11) on a laptop CPU\n\n\nBeastBox is a personal passion project, not a pitch. I want feedback from a room of builders, especially people who care about DSP, on-device ML, or real-time systems. If you've ever wanted to beatbox a whole drum kit into existence, or if you just want to see what it takes to run an extremely low-latency neural net inside an audio-thread budget, come hang out.\n\n      \n    ",
@@ -19728,53 +19651,6 @@
             {
                 "speakerName": "Alice Smiddy",
                 "speakerBio": "Alice Smiddy is a lead data scientist with experience designing and deploying machine learning systems in messy, real‑world environments. Her work focuses on data, experimentation, and human‑centered problem solving. Outside of work, her play centers on entertaining her almost‑4‑year‑old — from building scavenger hunts to attempting to foster a love of science via baking soda volcanoes and cornstarch slime. At Minnebar, she’s combining her tech chops with her toddler‑engagement skills in the name of structured chaos and fun.\nLinks:\n- LinkedIn\n"
-            }
-        ],
-        "list": "ai"
-    },
-    {
-        "url": "https://sessions.minnestar.org/sessions/2119",
-        "title": "Shared Intelligence for Humans and AI Agents: How Engram Built Our Company Brain ",
-        "description": "\n      Jensen Huang famously runs Nvidia with 60+ direct reports and skips 1-on-1s by giving everyone equal access to information and reasoning. It sounds brilliant... until you try it in a fast-moving startup or with dozens of AI agents and suddenly everyone (and every agent) is drowning in lost context, hallucinations, parallel drift, and rediscovered problems.\n\nAt our fintech startup Easy we solved this by building Engram, our shared intelligence layer and living Company Brain. Engram automatically ingests everything and turns it into a rich, self-organizing collective memory for both our team and our AI agents.\n\nThe result? A 28x productivity boost.\n\nIn this session we’ll show exactly how Engram works: the five-layer memory stack, mycelium-inspired self-organization, provenance chains for trustworthy autonomy, and the always-on Curator that surfaces business patterns. You’ll see real examples of how it turns session amnesia into shared superintelligence, and we’ll walk through how to set it up yourself (it’s open source and runs in a handful of commands).\n\nWhether you’re running agents in a startup or just want to stop re-explaining the same decisions, you’ll leave with practical steps to implement collective memory in your own operations.\n\nLinks for the program/notes:\nGitHub → https://github.com/itseasyco/engram\n\n      \n    ",
-        "tags": [
-            "Intermediate",
-            "Development",
-            "Startups",
-            "Emerging Tech",
-            "AI/ML"
-        ],
-        "categories": [
-            "2",
-            "4",
-            "6",
-            "7"
-        ],
-        "participants": [
-            {
-                "name": "Kris Boedigheimer",
-                "url": "/participants/6146"
-            },
-            {
-                "name": "Nadir Doctor",
-                "url": "/participants/7039"
-            },
-            {
-                "name": "James Greene",
-                "url": "/participants/7079"
-            },
-            {
-                "name": "Misty Garrick",
-                "url": "/participants/7096"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Niko LeMieux",
-                "speakerBio": "This person hasn't yet added a bio.\n"
-            },
-            {
-                "speakerName": "Andrew Fisher",
-                "speakerBio": "This person hasn't yet added a bio.\n"
             }
         ],
         "list": "ai"
@@ -21242,6 +21118,135 @@
             {
                 "name": "Reagan",
                 "url": "/participants/7181"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Minnestar",
+                "speakerBio": "Minnestar is a nonprofit community organization that connects Minnesota’s tech ecosystem through free, inclusive, and community-led events. We’re best known for Minnebar and Minnedemo — spaces where technologists, founders, creatives, and curious minds come together to share ideas, demo projects, and support one another.\nAt Minnestar, we believe the best tech community is one that’s accessible, welcoming, and powered by the people in it.\nLearn more about Minnestar\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2136",
+        "title": "Session 0: 20 Years of Minnestar (Trivia Edition) ",
+        "description": "\n      This year, we're doing something different.\n\nTo celebrate 20 years of Minnestar, Session 0 will be a trivia game show — mixing community trivia with stories from some familiar faces who’ve helped build this community over the years.\n\nWe’ll have OGs on stage — including Minnestar cofounders Ben Edwards and Luke Francl (👀 yes, you heard that right!) — sharing memories, milestones, and a few behind-the-scenes moments.\n\nYou’ll play along from your phone. Whether it’s your first Minnebar or your twentieth, it will be the perfect way to learn what the day is all about before it kicks off.\n\nWe always start the day together — and for our 20th, we’re making it count.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Wildcard"
+        ],
+        "categories": [
+            "13"
+        ],
+        "participants": [
+            {
+                "name": "Ian Bicking",
+                "url": "/participants/366"
+            },
+            {
+                "name": "C Velo",
+                "url": "/participants/524"
+            },
+            {
+                "name": "Jenn Strater",
+                "url": "/participants/812"
+            },
+            {
+                "name": "Sarah Olson",
+                "url": "/participants/1250"
+            },
+            {
+                "name": "Matthew Chimento",
+                "url": "/participants/1410"
+            },
+            {
+                "name": "Matt Bischoff",
+                "url": "/participants/1552"
+            },
+            {
+                "name": "Eric M. Larson",
+                "url": "/participants/1637"
+            },
+            {
+                "name": "Eryn O'Neil",
+                "url": "/participants/1792"
+            },
+            {
+                "name": "Sean Casserly",
+                "url": "/participants/2108"
+            },
+            {
+                "name": "Loran Gutt",
+                "url": "/participants/4455"
+            },
+            {
+                "name": "James Hunt",
+                "url": "/participants/4830"
+            },
+            {
+                "name": "Emma Peacha",
+                "url": "/participants/5540"
+            },
+            {
+                "name": "Andrew Fraser",
+                "url": "/participants/6367"
+            },
+            {
+                "name": "Jaclyn Smith",
+                "url": "/participants/6384"
+            },
+            {
+                "name": "Rob Ratcliffe",
+                "url": "/participants/6410"
+            },
+            {
+                "name": "Bo Driscoll",
+                "url": "/participants/6492"
+            },
+            {
+                "name": "Josh Benner",
+                "url": "/participants/6888"
+            },
+            {
+                "name": "Walter Ethan Lick Eagle",
+                "url": "/participants/6891"
+            },
+            {
+                "name": "Kendra Lewis",
+                "url": "/participants/6974"
+            },
+            {
+                "name": "Justin Buhl",
+                "url": "/participants/6996"
+            },
+            {
+                "name": "Lisa Snell",
+                "url": "/participants/7004"
+            },
+            {
+                "name": "Jesse O'Neill-Oine",
+                "url": "/participants/7068"
+            },
+            {
+                "name": "James Greene",
+                "url": "/participants/7079"
+            },
+            {
+                "name": "Koy Payne",
+                "url": "/participants/7132"
+            },
+            {
+                "name": "Paul Edwards",
+                "url": "/participants/7170"
+            },
+            {
+                "name": "David Allender",
+                "url": "/participants/7175"
+            },
+            {
+                "name": "Jim DeVos",
+                "url": "/participants/7231"
             }
         ],
         "speakers": [

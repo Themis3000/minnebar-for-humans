@@ -1,14 +1,14 @@
 {
     "overall": {
-        "aiSessions": 69,
-        "nonAiSessions": 110,
-        "aiVotes": 1368,
-        "nonAiVotes": 2797,
-        "avgAi": 19.82608695652174,
-        "avgNonAi": 25.427272727272726,
-        "ppVotesAi": 32.84513805522209,
-        "ppAvgAi": 43.81130394528828,
-        "ppSessionsAi": 38.547486033519554
+        "aiSessions": 67,
+        "nonAiSessions": 111,
+        "aiVotes": 1351,
+        "nonAiVotes": 2824,
+        "avgAi": 20.16417910447761,
+        "avgNonAi": 25.44144144144144,
+        "ppVotesAi": 32.359281437125745,
+        "ppAvgAi": 44.21424127794698,
+        "ppSessionsAi": 37.640449438202246
     },
     "byCategory": {
         "1": {
@@ -23,26 +23,26 @@
             "ppSessionsAi": 36.11111111111111
         },
         "2": {
-            "aiSessions": 33,
+            "aiSessions": 31,
             "nonAiSessions": 32,
-            "aiVotes": 649,
+            "aiVotes": 632,
             "nonAiVotes": 1051,
-            "avgAi": 19.666666666666668,
+            "avgAi": 20.387096774193548,
             "avgNonAi": 32.84375,
-            "ppVotesAi": 38.1764705882353,
-            "ppAvgAi": 37.452886332076964,
-            "ppSessionsAi": 50.76923076923077
+            "ppVotesAi": 37.55199049316696,
+            "ppAvgAi": 38.29940346558091,
+            "ppSessionsAi": 49.2063492063492
         },
         "4": {
-            "aiSessions": 25,
+            "aiSessions": 24,
             "nonAiSessions": 33,
-            "aiVotes": 513,
+            "aiVotes": 509,
             "nonAiVotes": 798,
-            "avgAi": 20.52,
+            "avgAi": 21.208333333333332,
             "avgNonAi": 24.181818181818183,
-            "ppVotesAi": 39.130434782608695,
-            "ppAvgAi": 45.904173106646056,
-            "ppSessionsAi": 43.103448275862064
+            "ppVotesAi": 38.94414690130069,
+            "ppAvgAi": 46.72452641241759,
+            "ppSessionsAi": 42.10526315789473
         },
         "5": {
             "aiSessions": 10,
@@ -56,37 +56,37 @@
             "ppSessionsAi": 27.027027027027028
         },
         "6": {
-            "aiSessions": 29,
+            "aiSessions": 28,
             "nonAiSessions": 18,
-            "aiVotes": 617,
+            "aiVotes": 613,
             "nonAiVotes": 579,
-            "avgAi": 21.275862068965516,
+            "avgAi": 21.892857142857142,
             "avgNonAi": 32.166666666666664,
-            "ppVotesAi": 51.58862876254181,
-            "ppAvgAi": 39.81073233681041,
-            "ppSessionsAi": 61.702127659574465
+            "ppVotesAi": 51.42617449664429,
+            "ppAvgAi": 40.4976877339793,
+            "ppSessionsAi": 60.86956521739131
         },
         "7": {
-            "aiSessions": 63,
+            "aiSessions": 61,
             "nonAiSessions": 3,
-            "aiVotes": 1261,
+            "aiVotes": 1244,
             "nonAiVotes": 42,
-            "avgAi": 20.015873015873016,
+            "avgAi": 20.39344262295082,
             "avgNonAi": 14,
-            "ppVotesAi": 96.7766692248657,
-            "ppAvgAi": 58.84274381707887,
-            "ppSessionsAi": 95.45454545454545
+            "ppVotesAi": 96.73405909797823,
+            "ppAvgAi": 59.29456625357484,
+            "ppSessionsAi": 95.3125
         },
         "8": {
-            "aiSessions": 15,
+            "aiSessions": 14,
             "nonAiSessions": 17,
-            "aiVotes": 277,
+            "aiVotes": 264,
             "nonAiVotes": 479,
-            "avgAi": 18.466666666666665,
+            "avgAi": 18.857142857142858,
             "avgNonAi": 28.176470588235293,
-            "ppVotesAi": 36.64021164021164,
-            "ppAvgAi": 39.591390617117874,
-            "ppSessionsAi": 46.875
+            "ppVotesAi": 35.53162853297443,
+            "ppAvgAi": 40.09290691441844,
+            "ppSessionsAi": 45.16129032258064
         },
         "9": {
             "aiSessions": 10,
@@ -134,14 +134,14 @@
         },
         "13": {
             "aiSessions": 17,
-            "nonAiSessions": 25,
+            "nonAiSessions": 26,
             "aiVotes": 311,
-            "nonAiVotes": 904,
+            "nonAiVotes": 931,
             "avgAi": 18.294117647058822,
-            "avgNonAi": 36.16,
-            "ppVotesAi": 25.596707818930042,
-            "ppAvgAi": 33.595471632891154,
-            "ppSessionsAi": 40.476190476190474
+            "avgNonAi": 35.80769230769231,
+            "ppVotesAi": 25.0402576489533,
+            "ppAvgAi": 33.81424329862418,
+            "ppSessionsAi": 39.53488372093023
         }
     },
     "connections": [
@@ -5786,6 +5786,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1893",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1899",
             "target": "https://sessions.minnestar.org/sessions/1905",
             "count": 2
@@ -5904,6 +5909,11 @@
             "source": "https://sessions.minnestar.org/sessions/1899",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1899",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1905",
@@ -6054,6 +6064,11 @@
             "source": "https://sessions.minnestar.org/sessions/1905",
             "target": "https://sessions.minnestar.org/sessions/2126",
             "count": 9
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1905",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1907",
@@ -6201,6 +6216,11 @@
             "count": 9
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1907",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1921",
             "target": "https://sessions.minnestar.org/sessions/1944",
             "count": 22
@@ -6309,6 +6329,11 @@
             "source": "https://sessions.minnestar.org/sessions/1921",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1921",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1944",
@@ -6446,6 +6471,11 @@
             "count": 15
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1944",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1945",
             "target": "https://sessions.minnestar.org/sessions/1950",
             "count": 6
@@ -6576,6 +6606,11 @@
             "count": 14
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1945",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 4
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1950",
             "target": "https://sessions.minnestar.org/sessions/1953",
             "count": 2
@@ -6701,6 +6736,11 @@
             "count": 16
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1950",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1953",
             "target": "https://sessions.minnestar.org/sessions/2014",
             "count": 3
@@ -6794,6 +6834,11 @@
             "source": "https://sessions.minnestar.org/sessions/1953",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1953",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1956",
@@ -6891,6 +6936,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1956",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1969",
             "target": "https://sessions.minnestar.org/sessions/2014",
             "count": 5
@@ -6983,6 +7033,11 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1969",
             "target": "https://sessions.minnestar.org/sessions/2125",
+            "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1969",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 2
         },
         {
@@ -7086,6 +7141,11 @@
             "count": 13
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2014",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2017",
             "target": "https://sessions.minnestar.org/sessions/2018",
             "count": 3
@@ -7186,6 +7246,11 @@
             "count": 9
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2017",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2018",
             "target": "https://sessions.minnestar.org/sessions/2020",
             "count": 2
@@ -7281,6 +7346,11 @@
             "count": 5
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2018",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2020",
             "target": "https://sessions.minnestar.org/sessions/2037",
             "count": 7
@@ -7371,6 +7441,11 @@
             "count": 7
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2020",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2037",
             "target": "https://sessions.minnestar.org/sessions/2043",
             "count": 3
@@ -7456,6 +7531,11 @@
             "count": 6
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2037",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2043",
             "target": "https://sessions.minnestar.org/sessions/2048",
             "count": 5
@@ -7536,6 +7616,11 @@
             "count": 8
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2043",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2048",
             "target": "https://sessions.minnestar.org/sessions/2058",
             "count": 7
@@ -7601,6 +7686,11 @@
             "count": 6
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2048",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2058",
             "target": "https://sessions.minnestar.org/sessions/2060",
             "count": 4
@@ -7671,6 +7761,11 @@
             "count": 8
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2058",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2060",
             "target": "https://sessions.minnestar.org/sessions/2071",
             "count": 1
@@ -7736,6 +7831,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2060",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2071",
             "target": "https://sessions.minnestar.org/sessions/2073",
             "count": 1
@@ -7796,6 +7896,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2071",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2073",
             "target": "https://sessions.minnestar.org/sessions/2081",
             "count": 3
@@ -7851,6 +7956,11 @@
             "count": 11
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2073",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2081",
             "target": "https://sessions.minnestar.org/sessions/2089",
             "count": 6
@@ -7901,6 +8011,11 @@
             "count": 6
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2081",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2089",
             "target": "https://sessions.minnestar.org/sessions/2095",
             "count": 5
@@ -7939,6 +8054,11 @@
             "source": "https://sessions.minnestar.org/sessions/2089",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 7
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2089",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2095",
@@ -7981,6 +8101,11 @@
             "count": 11
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2095",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 4
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2096",
             "target": "https://sessions.minnestar.org/sessions/2100",
             "count": 5
@@ -8016,6 +8141,11 @@
             "count": 21
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2096",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2100",
             "target": "https://sessions.minnestar.org/sessions/2107",
             "count": 6
@@ -8046,6 +8176,11 @@
             "count": 5
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2100",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2107",
             "target": "https://sessions.minnestar.org/sessions/2108",
             "count": 13
@@ -8071,6 +8206,11 @@
             "count": 10
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2107",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2108",
             "target": "https://sessions.minnestar.org/sessions/2118",
             "count": 6
@@ -8091,6 +8231,11 @@
             "count": 59
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2108",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2118",
             "target": "https://sessions.minnestar.org/sessions/2122",
             "count": 2
@@ -8106,6 +8251,11 @@
             "count": 3
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2118",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2122",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 4
@@ -8116,9 +8266,24 @@
             "count": 13
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2122",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2125",
             "target": "https://sessions.minnestar.org/sessions/2126",
             "count": 6
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2125",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2126",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1893",
@@ -15696,11 +15861,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1893",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1907",
             "target": "https://sessions.minnestar.org/sessions/2067",
             "count": 3
@@ -15719,11 +15879,6 @@
             "source": "https://sessions.minnestar.org/sessions/1907",
             "target": "https://sessions.minnestar.org/sessions/2114",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1907",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1907",
@@ -15757,11 +15912,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1927",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1927",
             "target": "https://sessions.minnestar.org/sessions/2128",
             "count": 3
         },
@@ -15779,11 +15929,6 @@
             "source": "https://sessions.minnestar.org/sessions/1932",
             "target": "https://sessions.minnestar.org/sessions/2118",
             "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1932",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1939",
@@ -15826,11 +15971,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1939",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1953",
             "target": "https://sessions.minnestar.org/sessions/2051",
             "count": 2
@@ -15847,11 +15987,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1953",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1953",
             "target": "https://sessions.minnestar.org/sessions/2128",
             "count": 3
         },
@@ -15892,11 +16027,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2051",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2051",
             "target": "https://sessions.minnestar.org/sessions/2128",
             "count": 1
         },
@@ -15932,11 +16062,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2067",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2067",
             "target": "https://sessions.minnestar.org/sessions/2128",
             "count": 2
         },
@@ -15958,11 +16083,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2074",
             "target": "https://sessions.minnestar.org/sessions/2118",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2074",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -15982,11 +16102,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2089",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2089",
             "target": "https://sessions.minnestar.org/sessions/2128",
             "count": 1
         },
@@ -16007,11 +16122,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2090",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2090",
             "target": "https://sessions.minnestar.org/sessions/2128",
             "count": 2
         },
@@ -16019,11 +16129,6 @@
             "source": "https://sessions.minnestar.org/sessions/2095",
             "target": "https://sessions.minnestar.org/sessions/2114",
             "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2095",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2095",
@@ -16037,26 +16142,11 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2114",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2114",
             "target": "https://sessions.minnestar.org/sessions/2128",
             "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2118",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2118",
-            "target": "https://sessions.minnestar.org/sessions/2128",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2119",
             "target": "https://sessions.minnestar.org/sessions/2128",
             "count": 1
         },
@@ -20691,6 +20781,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1918",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1925",
             "target": "https://sessions.minnestar.org/sessions/2005",
             "count": 4
@@ -20699,6 +20794,11 @@
             "source": "https://sessions.minnestar.org/sessions/1925",
             "target": "https://sessions.minnestar.org/sessions/2010",
             "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1925",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1930",
@@ -20711,6 +20811,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1930",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1932",
             "target": "https://sessions.minnestar.org/sessions/2005",
             "count": 3
@@ -20718,6 +20823,11 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1932",
             "target": "https://sessions.minnestar.org/sessions/2010",
+            "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1932",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 2
         },
         {
@@ -20736,6 +20846,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1935",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 4
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1939",
             "target": "https://sessions.minnestar.org/sessions/2005",
             "count": 1
@@ -20744,6 +20859,11 @@
             "source": "https://sessions.minnestar.org/sessions/1939",
             "target": "https://sessions.minnestar.org/sessions/2010",
             "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1939",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1941",
@@ -20761,6 +20881,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1941",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1948",
             "target": "https://sessions.minnestar.org/sessions/2005",
             "count": 4
@@ -20771,6 +20896,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1948",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1967",
             "target": "https://sessions.minnestar.org/sessions/2005",
             "count": 3
@@ -20781,9 +20911,24 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1967",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2005",
             "target": "https://sessions.minnestar.org/sessions/2010",
             "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2005",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2010",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1915",
@@ -36426,6 +36571,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1894",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1932",
             "target": "https://sessions.minnestar.org/sessions/1958",
             "count": 7
@@ -36454,6 +36604,11 @@
             "source": "https://sessions.minnestar.org/sessions/1943",
             "target": "https://sessions.minnestar.org/sessions/2124",
             "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1943",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1945",
@@ -36491,6 +36646,11 @@
             "count": 6
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1958",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 4
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2020",
             "target": "https://sessions.minnestar.org/sessions/2042",
             "count": 6
@@ -36516,8 +36676,18 @@
             "count": 4
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2042",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2079",
             "target": "https://sessions.minnestar.org/sessions/2093",
+            "count": 4
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2079",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 4
         },
         {
@@ -36536,6 +36706,11 @@
             "count": 5
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2080",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2093",
             "target": "https://sessions.minnestar.org/sessions/2118",
             "count": 3
@@ -36544,6 +36719,16 @@
             "source": "https://sessions.minnestar.org/sessions/2093",
             "target": "https://sessions.minnestar.org/sessions/2124",
             "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2093",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2124",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1894",
@@ -39126,6 +39311,11 @@
             "count": 3
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1895",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1899",
             "target": "https://sessions.minnestar.org/sessions/1900",
             "count": 3
@@ -39296,6 +39486,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1900",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1903",
             "target": "https://sessions.minnestar.org/sessions/1925",
             "count": 3
@@ -39396,6 +39591,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1903",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1905",
             "target": "https://sessions.minnestar.org/sessions/1931",
             "count": 2
@@ -39426,6 +39626,11 @@
             "count": 5
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1915",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1920",
             "target": "https://sessions.minnestar.org/sessions/1943",
             "count": 4
@@ -39449,6 +39654,11 @@
             "source": "https://sessions.minnestar.org/sessions/1920",
             "target": "https://sessions.minnestar.org/sessions/2132",
             "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1920",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1925",
@@ -39556,6 +39766,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1931",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1935",
             "target": "https://sessions.minnestar.org/sessions/2028",
             "count": 3
@@ -39651,6 +39866,11 @@
             "count": 3
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1951",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1958",
             "target": "https://sessions.minnestar.org/sessions/2028",
             "count": 3
@@ -39711,6 +39931,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1965",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1969",
             "target": "https://sessions.minnestar.org/sessions/2022",
             "count": 3
@@ -39766,6 +39991,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2003",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2017",
             "target": "https://sessions.minnestar.org/sessions/2022",
             "count": 1
@@ -39803,6 +40033,11 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2022",
             "target": "https://sessions.minnestar.org/sessions/2098",
+            "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2022",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 2
         },
         {
@@ -39886,6 +40121,11 @@
             "count": 3
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2028",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2034",
             "target": "https://sessions.minnestar.org/sessions/2066",
             "count": 5
@@ -39926,6 +40166,11 @@
             "count": 3
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2034",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 5
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2047",
             "target": "https://sessions.minnestar.org/sessions/2098",
             "count": 3
@@ -39941,6 +40186,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2047",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2052",
             "target": "https://sessions.minnestar.org/sessions/2095",
             "count": 1
@@ -39949,6 +40199,11 @@
             "source": "https://sessions.minnestar.org/sessions/2052",
             "target": "https://sessions.minnestar.org/sessions/2096",
             "count": 4
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2052",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2066",
@@ -39964,6 +40219,11 @@
             "source": "https://sessions.minnestar.org/sessions/2066",
             "target": "https://sessions.minnestar.org/sessions/2132",
             "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2066",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2073",
@@ -40066,6 +40326,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2098",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2104",
             "target": "https://sessions.minnestar.org/sessions/2124",
             "count": 3
@@ -40081,9 +40346,19 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2104",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 4
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2115",
             "target": "https://sessions.minnestar.org/sessions/2130",
             "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2115",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2123",
@@ -40093,6 +40368,21 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2123",
             "target": "https://sessions.minnestar.org/sessions/2132",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2123",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2130",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 4
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2132",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -46362,11 +46652,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1900",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1900",
             "target": "https://sessions.minnestar.org/sessions/2118",
             "count": 1
         },
@@ -46392,11 +46677,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1914",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1914",
             "target": "https://sessions.minnestar.org/sessions/2118",
             "count": 1
         },
@@ -46408,11 +46688,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1919",
             "target": "https://sessions.minnestar.org/sessions/2058",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1919",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 3
         },
         {
@@ -46432,11 +46707,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1929",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1929",
             "target": "https://sessions.minnestar.org/sessions/2118",
             "count": 1
         },
@@ -46446,49 +46716,14 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1956",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2017",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2039",
             "target": "https://sessions.minnestar.org/sessions/2089",
             "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2039",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2039",
             "target": "https://sessions.minnestar.org/sessions/2118",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2058",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2089",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2095",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2118",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1900",
@@ -48137,13 +48372,13 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1910",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 5
+            "target": "https://sessions.minnestar.org/sessions/2114",
+            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1910",
-            "target": "https://sessions.minnestar.org/sessions/2114",
-            "count": 1
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1911",
@@ -48162,7 +48397,7 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1911",
-            "target": "https://sessions.minnestar.org/sessions/2111",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 2
         },
         {
@@ -48201,14 +48436,14 @@
             "count": 3
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1967",
-            "target": "https://sessions.minnestar.org/sessions/2107",
-            "count": 3
+            "source": "https://sessions.minnestar.org/sessions/1929",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1967",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
+            "target": "https://sessions.minnestar.org/sessions/2107",
+            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1967",
@@ -48247,11 +48482,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2015",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2015",
             "target": "https://sessions.minnestar.org/sessions/2114",
             "count": 1
         },
@@ -48261,9 +48491,9 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2034",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
+            "source": "https://sessions.minnestar.org/sessions/2015",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2034",
@@ -48297,11 +48527,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2040",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2040",
             "target": "https://sessions.minnestar.org/sessions/2114",
             "count": 2
         },
@@ -48309,6 +48534,11 @@
             "source": "https://sessions.minnestar.org/sessions/2040",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2040",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2048",
@@ -48317,11 +48547,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2048",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2048",
             "target": "https://sessions.minnestar.org/sessions/2120",
             "count": 4
         },
@@ -48341,29 +48566,9 @@
             "count": 3
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2080",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2081",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2100",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 4
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2101",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2104",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2104",
@@ -48372,28 +48577,8 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2107",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2107",
             "target": "https://sessions.minnestar.org/sessions/2114",
             "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2114",
-            "count": 4
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2120",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2125",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2114",
@@ -48401,9 +48586,19 @@
             "count": 3
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2114",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2120",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 3
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2120",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1900",
@@ -48501,11 +48696,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1903",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1905",
             "target": "https://sessions.minnestar.org/sessions/2054",
             "count": 3
@@ -48519,11 +48709,6 @@
             "source": "https://sessions.minnestar.org/sessions/1905",
             "target": "https://sessions.minnestar.org/sessions/2106",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1905",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1909",
@@ -48573,11 +48758,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1909",
             "target": "https://sessions.minnestar.org/sessions/2106",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1909",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 1
         },
         {
@@ -48751,11 +48931,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1942",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1949",
             "target": "https://sessions.minnestar.org/sessions/2005",
             "count": 1
@@ -48786,11 +48961,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1949",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2005",
             "target": "https://sessions.minnestar.org/sessions/2054",
             "count": 2
@@ -48809,11 +48979,6 @@
             "source": "https://sessions.minnestar.org/sessions/2005",
             "target": "https://sessions.minnestar.org/sessions/2106",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2005",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 4
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2011",
@@ -48846,11 +49011,6 @@
             "count": 3
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2011",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2013",
             "target": "https://sessions.minnestar.org/sessions/2018",
             "count": 1
@@ -48878,11 +49038,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2013",
             "target": "https://sessions.minnestar.org/sessions/2064",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2013",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 2
         },
         {
@@ -48946,11 +49101,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2016",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2018",
             "target": "https://sessions.minnestar.org/sessions/2022",
             "count": 3
@@ -49001,11 +49151,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2018",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2022",
             "target": "https://sessions.minnestar.org/sessions/2039",
             "count": 1
@@ -49029,11 +49174,6 @@
             "source": "https://sessions.minnestar.org/sessions/2022",
             "target": "https://sessions.minnestar.org/sessions/2106",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2022",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2023",
@@ -49061,11 +49201,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2023",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2034",
             "target": "https://sessions.minnestar.org/sessions/2054",
             "count": 3
@@ -49083,11 +49218,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2037",
             "target": "https://sessions.minnestar.org/sessions/2106",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2037",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 1
         },
         {
@@ -49161,11 +49291,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2043",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2048",
             "target": "https://sessions.minnestar.org/sessions/2054",
             "count": 2
@@ -49203,11 +49328,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2053",
             "target": "https://sessions.minnestar.org/sessions/2106",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2053",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 1
         },
         {
@@ -49252,11 +49372,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2054",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2054",
             "target": "https://sessions.minnestar.org/sessions/2120",
             "count": 2
         },
@@ -49291,11 +49406,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2056",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2058",
             "target": "https://sessions.minnestar.org/sessions/2061",
             "count": 3
@@ -49336,11 +49446,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2061",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2064",
             "target": "https://sessions.minnestar.org/sessions/2067",
             "count": 1
@@ -49366,11 +49471,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2064",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2067",
             "target": "https://sessions.minnestar.org/sessions/2078",
             "count": 2
@@ -49386,11 +49486,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2067",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2078",
             "target": "https://sessions.minnestar.org/sessions/2096",
             "count": 3
@@ -49401,29 +49496,9 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2078",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2079",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2096",
             "target": "https://sessions.minnestar.org/sessions/2106",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2096",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2106",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2106",
@@ -49892,11 +49967,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1903",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1903",
             "target": "https://sessions.minnestar.org/sessions/2122",
             "count": 1
         },
@@ -49952,11 +50022,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1916",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1916",
             "target": "https://sessions.minnestar.org/sessions/2122",
             "count": 2
         },
@@ -49974,6 +50039,11 @@
             "source": "https://sessions.minnestar.org/sessions/1916",
             "target": "https://sessions.minnestar.org/sessions/2130",
             "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1916",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1920",
@@ -49994,11 +50064,6 @@
             "source": "https://sessions.minnestar.org/sessions/1920",
             "target": "https://sessions.minnestar.org/sessions/2114",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1920",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1920",
@@ -50057,11 +50122,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1943",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1943",
             "target": "https://sessions.minnestar.org/sessions/2122",
             "count": 1
         },
@@ -50084,11 +50144,6 @@
             "source": "https://sessions.minnestar.org/sessions/1945",
             "target": "https://sessions.minnestar.org/sessions/2117",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1945",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1945",
@@ -50147,11 +50202,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2003",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2003",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 1
         },
@@ -50182,11 +50232,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2014",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2014",
             "target": "https://sessions.minnestar.org/sessions/2127",
             "count": 1
         },
@@ -50206,11 +50251,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2020",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2029",
             "target": "https://sessions.minnestar.org/sessions/2058",
             "count": 2
@@ -50223,11 +50263,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2029",
             "target": "https://sessions.minnestar.org/sessions/2117",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2029",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -50246,6 +50281,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2029",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2034",
             "target": "https://sessions.minnestar.org/sessions/2038",
             "count": 3
@@ -50258,11 +50298,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2034",
             "target": "https://sessions.minnestar.org/sessions/2093",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2034",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -50322,11 +50357,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2038",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2038",
             "target": "https://sessions.minnestar.org/sessions/2122",
             "count": 1
         },
@@ -50341,6 +50371,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2038",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2040",
             "target": "https://sessions.minnestar.org/sessions/2086",
             "count": 1
@@ -50348,11 +50383,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2040",
             "target": "https://sessions.minnestar.org/sessions/2093",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2040",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -50387,11 +50417,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2042",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2042",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 1
         },
@@ -50403,11 +50428,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2058",
             "target": "https://sessions.minnestar.org/sessions/2093",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2058",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -50436,24 +50456,19 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2067",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2079",
             "target": "https://sessions.minnestar.org/sessions/2086",
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2079",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2080",
             "target": "https://sessions.minnestar.org/sessions/2117",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2080",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2080",
@@ -50464,11 +50479,6 @@
             "source": "https://sessions.minnestar.org/sessions/2081",
             "target": "https://sessions.minnestar.org/sessions/2093",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2081",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2081",
@@ -50507,11 +50517,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2086",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2086",
             "target": "https://sessions.minnestar.org/sessions/2122",
             "count": 1
         },
@@ -50529,6 +50534,11 @@
             "source": "https://sessions.minnestar.org/sessions/2086",
             "target": "https://sessions.minnestar.org/sessions/2130",
             "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2086",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2089",
@@ -50577,11 +50587,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2093",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2093",
             "target": "https://sessions.minnestar.org/sessions/2122",
             "count": 1
         },
@@ -50612,11 +50617,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2100",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2100",
             "target": "https://sessions.minnestar.org/sessions/2127",
             "count": 1
         },
@@ -50627,28 +50627,13 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2104",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2104",
             "target": "https://sessions.minnestar.org/sessions/2127",
             "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2107",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2107",
             "target": "https://sessions.minnestar.org/sessions/2127",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2108",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2114",
@@ -50667,11 +50652,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2117",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2117",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 2
         },
@@ -50686,29 +50666,9 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2119",
-            "target": "https://sessions.minnestar.org/sessions/2122",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2119",
-            "target": "https://sessions.minnestar.org/sessions/2125",
+            "source": "https://sessions.minnestar.org/sessions/2117",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2119",
-            "target": "https://sessions.minnestar.org/sessions/2126",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2119",
-            "target": "https://sessions.minnestar.org/sessions/2127",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2119",
-            "target": "https://sessions.minnestar.org/sessions/2130",
-            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2122",
@@ -50736,6 +50696,11 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2127",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1903",
             "target": "https://sessions.minnestar.org/sessions/1962",
             "count": 1
@@ -50758,11 +50723,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1908",
             "target": "https://sessions.minnestar.org/sessions/2076",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1908",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 2
         },
         {
@@ -50796,11 +50756,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1935",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1962",
             "target": "https://sessions.minnestar.org/sessions/2056",
             "count": 2
@@ -50808,11 +50763,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1962",
             "target": "https://sessions.minnestar.org/sessions/2076",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1962",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 1
         },
         {
@@ -50831,11 +50781,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2028",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2047",
             "target": "https://sessions.minnestar.org/sessions/2056",
             "count": 3
@@ -50849,11 +50794,6 @@
             "source": "https://sessions.minnestar.org/sessions/2047",
             "target": "https://sessions.minnestar.org/sessions/2076",
             "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2047",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2056",
@@ -50876,11 +50816,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2062",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2076",
             "target": "https://sessions.minnestar.org/sessions/2089",
             "count": 1
@@ -50889,16 +50824,6 @@
             "source": "https://sessions.minnestar.org/sessions/2076",
             "target": "https://sessions.minnestar.org/sessions/2098",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2076",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2098",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1904",
@@ -51881,11 +51806,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1920",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1967",
             "target": "https://sessions.minnestar.org/sessions/2113",
             "count": 1
@@ -51904,11 +51824,6 @@
             "source": "https://sessions.minnestar.org/sessions/2062",
             "target": "https://sessions.minnestar.org/sessions/2113",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2113",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1905",
@@ -55231,11 +55146,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1932",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1956",
             "target": "https://sessions.minnestar.org/sessions/1957",
             "count": 1
@@ -55248,36 +55158,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1957",
             "target": "https://sessions.minnestar.org/sessions/2095",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1957",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1960",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2003",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2108",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2122",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2126",
             "count": 1
         },
         {
@@ -56121,11 +56001,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2036",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2049",
             "target": "https://sessions.minnestar.org/sessions/2069",
             "count": 1
@@ -56147,11 +56022,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2049",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2049",
             "target": "https://sessions.minnestar.org/sessions/2117",
             "count": 1
         },
@@ -56177,11 +56047,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2069",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2069",
             "target": "https://sessions.minnestar.org/sessions/2117",
             "count": 1
         },
@@ -56197,11 +56062,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2083",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2083",
             "target": "https://sessions.minnestar.org/sessions/2117",
             "count": 1
         },
@@ -56209,21 +56069,6 @@
             "source": "https://sessions.minnestar.org/sessions/2103",
             "target": "https://sessions.minnestar.org/sessions/2105",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2103",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2105",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2117",
-            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1966",
@@ -56239,21 +56084,6 @@
             "source": "https://sessions.minnestar.org/sessions/2057",
             "target": "https://sessions.minnestar.org/sessions/2117",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1923",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1925",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1930",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1933",
@@ -56276,29 +56106,9 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1933",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1941",
             "target": "https://sessions.minnestar.org/sessions/2022",
             "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1941",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 3
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1950",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1951",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1914",
@@ -56306,8 +56116,8 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1916",
-            "target": "https://sessions.minnestar.org/sessions/2111",
+            "source": "https://sessions.minnestar.org/sessions/1914",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -56317,7 +56127,7 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1917",
-            "target": "https://sessions.minnestar.org/sessions/2111",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -57101,6 +56911,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1913",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1918",
             "target": "https://sessions.minnestar.org/sessions/1933",
             "count": 1
@@ -57116,6 +56931,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1922",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1933",
             "target": "https://sessions.minnestar.org/sessions/2043",
             "count": 1
@@ -57124,6 +56944,11 @@
             "source": "https://sessions.minnestar.org/sessions/1933",
             "target": "https://sessions.minnestar.org/sessions/2130",
             "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1933",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1939",
@@ -57146,9 +56971,19 @@
             "count": 2
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1957",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1966",
             "target": "https://sessions.minnestar.org/sessions/2029",
             "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1966",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2008",
@@ -57161,8 +56996,18 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2008",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 2
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2062",
             "target": "https://sessions.minnestar.org/sessions/2130",
+            "count": 2
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2062",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 2
         },
         {
@@ -57551,11 +57396,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1914",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1925",
             "target": "https://sessions.minnestar.org/sessions/2090",
             "count": 1
@@ -57566,28 +57406,13 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1925",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1930",
             "target": "https://sessions.minnestar.org/sessions/2090",
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/1930",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/1941",
             "target": "https://sessions.minnestar.org/sessions/2066",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1941",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -57627,32 +57452,12 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1955",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1955",
             "target": "https://sessions.minnestar.org/sessions/2114",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1955",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1969",
             "target": "https://sessions.minnestar.org/sessions/2005",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1969",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1969",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -57666,16 +57471,6 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2002",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2002",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2005",
             "target": "https://sessions.minnestar.org/sessions/2014",
             "count": 1
@@ -57686,28 +57481,8 @@
             "count": 2
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2005",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2011",
             "target": "https://sessions.minnestar.org/sessions/2090",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2011",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2014",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2047",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -57716,39 +57491,14 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2061",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2066",
             "target": "https://sessions.minnestar.org/sessions/2090",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2066",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2066",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2090",
             "target": "https://sessions.minnestar.org/sessions/2108",
             "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2090",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1914",
@@ -58596,6 +58346,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1927",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1935",
             "target": "https://sessions.minnestar.org/sessions/2039",
             "count": 1
@@ -58603,6 +58358,11 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1962",
             "target": "https://sessions.minnestar.org/sessions/2036",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1962",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -58614,6 +58374,21 @@
             "source": "https://sessions.minnestar.org/sessions/2003",
             "target": "https://sessions.minnestar.org/sessions/2039",
             "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2004",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2036",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2039",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 3
         },
         {
             "source": "https://sessions.minnestar.org/sessions/1923",
@@ -58867,11 +58642,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2093",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2093",
             "target": "https://sessions.minnestar.org/sessions/2112",
             "count": 1
         },
@@ -58926,11 +58696,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2096",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2097",
             "target": "https://sessions.minnestar.org/sessions/2098",
             "count": 1
@@ -58947,11 +58712,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2097",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2097",
             "target": "https://sessions.minnestar.org/sessions/2112",
             "count": 1
         },
@@ -58963,11 +58723,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2097",
             "target": "https://sessions.minnestar.org/sessions/2118",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2097",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -58992,11 +58747,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2098",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2098",
             "target": "https://sessions.minnestar.org/sessions/2125",
             "count": 1
         },
@@ -59007,22 +58757,12 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2099",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2099",
             "target": "https://sessions.minnestar.org/sessions/2113",
             "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2099",
             "target": "https://sessions.minnestar.org/sessions/2118",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2099",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -59056,11 +58796,6 @@
             "count": 1
         },
         {
-            "source": "https://sessions.minnestar.org/sessions/2101",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
             "source": "https://sessions.minnestar.org/sessions/2102",
             "target": "https://sessions.minnestar.org/sessions/2103",
             "count": 1
@@ -59068,11 +58803,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2102",
             "target": "https://sessions.minnestar.org/sessions/2107",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2102",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 1
         },
         {
@@ -59093,11 +58823,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2102",
             "target": "https://sessions.minnestar.org/sessions/2118",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2102",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -59132,22 +58857,12 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2103",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2103",
             "target": "https://sessions.minnestar.org/sessions/2123",
             "count": 2
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2105",
             "target": "https://sessions.minnestar.org/sessions/2113",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2105",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -59182,11 +58897,6 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2106",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2106",
             "target": "https://sessions.minnestar.org/sessions/2121",
             "count": 2
         },
@@ -59212,47 +58922,12 @@
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2109",
-            "target": "https://sessions.minnestar.org/sessions/2111",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2109",
             "target": "https://sessions.minnestar.org/sessions/2113",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2109",
-            "target": "https://sessions.minnestar.org/sessions/2119",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2112",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2121",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2123",
-            "count": 2
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2111",
-            "target": "https://sessions.minnestar.org/sessions/2124",
             "count": 1
         },
         {
             "source": "https://sessions.minnestar.org/sessions/2112",
             "target": "https://sessions.minnestar.org/sessions/2114",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2112",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -59268,11 +58943,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2113",
             "target": "https://sessions.minnestar.org/sessions/2118",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2113",
-            "target": "https://sessions.minnestar.org/sessions/2119",
             "count": 1
         },
         {
@@ -59293,21 +58963,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2118",
             "target": "https://sessions.minnestar.org/sessions/2123",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2119",
-            "target": "https://sessions.minnestar.org/sessions/2121",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2119",
-            "target": "https://sessions.minnestar.org/sessions/2123",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/2119",
-            "target": "https://sessions.minnestar.org/sessions/2124",
             "count": 1
         },
         {
@@ -59401,6 +59056,11 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1934",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/1949",
             "target": "https://sessions.minnestar.org/sessions/2007",
             "count": 1
@@ -59426,8 +59086,18 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1949",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2007",
             "target": "https://sessions.minnestar.org/sessions/2062",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2007",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -59436,8 +59106,18 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2021",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2023",
             "target": "https://sessions.minnestar.org/sessions/2117",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2023",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -59486,8 +59166,18 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/2078",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2088",
             "target": "https://sessions.minnestar.org/sessions/2130",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2088",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -59496,8 +59186,28 @@
             "count": 1
         },
         {
+            "source": "https://sessions.minnestar.org/sessions/1937",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/1960",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
             "source": "https://sessions.minnestar.org/sessions/2013",
             "target": "https://sessions.minnestar.org/sessions/2041",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2013",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2041",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -59558,6 +59268,16 @@
         {
             "source": "https://sessions.minnestar.org/sessions/2053",
             "target": "https://sessions.minnestar.org/sessions/2128",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2053",
+            "target": "https://sessions.minnestar.org/sessions/2136",
+            "count": 1
+        },
+        {
+            "source": "https://sessions.minnestar.org/sessions/2128",
+            "target": "https://sessions.minnestar.org/sessions/2136",
             "count": 1
         },
         {
@@ -59818,11 +59538,6 @@
         {
             "source": "https://sessions.minnestar.org/sessions/1965",
             "target": "https://sessions.minnestar.org/sessions/2099",
-            "count": 1
-        },
-        {
-            "source": "https://sessions.minnestar.org/sessions/1965",
-            "target": "https://sessions.minnestar.org/sessions/2111",
             "count": 1
         },
         {
