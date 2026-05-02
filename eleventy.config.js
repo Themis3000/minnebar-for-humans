@@ -21,8 +21,6 @@ import filters from './src/_config/filters.js';
 import plugins from './src/_config/plugins.js';
 import shortcodes from './src/_config/shortcodes.js';
 
-import { HtmlBasePlugin } from '@11ty/eleventy';
-
 export default async function (eleventyConfig) {
   // --------------------- Events: before build
   eleventyConfig.on('eleventy.before', async () => {
@@ -69,8 +67,6 @@ export default async function (eleventyConfig) {
       pictureAttributes: {}
     }
   });
-
-  eleventyConfig.addPlugin(HtmlBasePlugin);
 
   // ---------------------  bundle
   eleventyConfig.addBundle('css', {hoist: true});
