@@ -12,7 +12,13 @@
     {
         "time": " 8:50 –  9:30",
         "title": "Session 0",
-        "sessions": []
+        "sessions": [
+            {
+                "url": "https://sessions.minnestar.org/sessions/2136",
+                "room": "",
+                "id": "2136"
+            }
+        ]
     },
     {
         "time": " 9:30 –  4:50",
@@ -37,6 +43,11 @@
                 "url": "https://sessions.minnestar.org/sessions/2028",
                 "room": "",
                 "id": "2028"
+            },
+            {
+                "url": "https://sessions.minnestar.org/sessions/2127",
+                "room": "",
+                "id": "2127"
             }
         ]
     },
@@ -337,11 +348,6 @@
                 "id": "1939"
             },
             {
-                "url": "https://sessions.minnestar.org/sessions/2111",
-                "room": "Tackle",
-                "id": "2111"
-            },
-            {
                 "url": "https://sessions.minnestar.org/sessions/1931",
                 "room": "Louis Pasteur",
                 "id": "1931"
@@ -486,11 +492,6 @@
                 "url": "https://sessions.minnestar.org/sessions/2102",
                 "room": "Florida",
                 "id": "2102"
-            },
-            {
-                "url": "https://sessions.minnestar.org/sessions/2119",
-                "room": "Georgia",
-                "id": "2119"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/2128",
