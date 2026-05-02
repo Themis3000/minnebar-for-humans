@@ -24,7 +24,7 @@ import shortcodes from './src/_config/shortcodes.js';
 export default async function (eleventyConfig) {
   // --------------------- Events: before build
   eleventyConfig.on('eleventy.before', async () => {
-    await events.buildAllCss();
+    await events.buildAllCss(eleventyConfig.pathPrefix);
     await events.buildAllJs();
   });
 
